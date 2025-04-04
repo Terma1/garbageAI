@@ -18,13 +18,11 @@ def query_db(query, args=(), one=False):
 
 @app.route('/')
 def index():
-    """Serve the main HTML page."""
     return render_template('index.html')
 
 
 @app.route('/get_last_collection', methods=['GET'])
 def get_last_collection():
-    """Get the last timestamp of garbage collection for a street."""
     street_id = request.args.get('street_id')
     if not street_id:
         return jsonify({"error": "street_id is required"}), 400
@@ -56,7 +54,7 @@ def request_collection():
         INSERT INTO user_request (latitude, longitude, street_id, garbage_type, state, device_id, ip)
         VALUES (NULL, NULL, ?, ?, ?, ?, ?)
         """,
-        [street_id, garbage_type, state, 0, ip] ``
+        [street_id, garbage_type, state, 0, ip] 
     )
     return jsonify({"message": "Collection request submitted successfully"}), 201
 
