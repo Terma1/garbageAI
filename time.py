@@ -18,4 +18,3 @@ average_lifespan_by_area = df.groupby(['kategorie', 'Stadtteil'])['DateDiff'].me
 
 print("\nСредний промежуток между днями вывоза для каждой категории мусора в каждом районе:")
 print(average_lifespan_by_area)
-average_lifespan_by_area.to_excel("lifetime.xlsx")

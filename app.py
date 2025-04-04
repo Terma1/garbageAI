@@ -90,6 +90,14 @@ def confirm_collection():
         [garbage_type, street_id, datetime.now()]
     )
     return jsonify({"message": "Collection confirmed successfully"}), 200
+@app.route('/street_garbage_status', methods=['GET'])
+def get_street_garbage_status():
+    results = query_db("SELECT * FROM street_garbage_status")
+    return jsonify([dict(row) for row in results])
 
+@app.route('/city_part_garbage_status', methods=['GET'])
+def get_city_part_garbage_status():
+    results = query_db("SELECT * FROM city_part_garbage_status")
+    return jsonify([dict(row) for row in results])
 if __name__ == '__main__':
     app.run(debug=True)
