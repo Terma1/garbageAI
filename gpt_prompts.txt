@@ -58,4 +58,23 @@ Then write a python script that
 - Opens or creates an sqlite database in a file
 - Opens the sql script above and creates the tables
 
+---------------------------------------------------------------
+
+Please write an SQL script that creates a view with the following data:
+- rowid() as a fake key
+- street
+- garbage type
+- average, max, min levels of bins since the last garbage collection on that street
+- the time from the last garbage collection
+- if the time from the line above is greater than 1.5 x the normal time for this city part from the regulatory data table
+
+And a very similar one, but for the city parts together (not streets)
+
+And please write a server with flask that
+- Opens a database from 'data/garbage_collection.db' on start
+- Serves static files (including index.html) from the 'static' folder
+- Sets a random device ID string to the cookie, if it is not set yet
+- Provides a post request handler for adding new requests (JSON) from users and adds new rows
+to the user_request table. users IP address is filled on the backend, device id is taken from the cookies.
+Timestamp and id are set by the database
 

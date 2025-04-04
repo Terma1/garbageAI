@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, send_from_directory, make_response
 import sqlite3
 from datetime import datetime
+import uuid
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 DATABASE = "data/garbage_collection.db"
 
 def query_db(query, args=(), one=False):
@@ -16,10 +17,22 @@ def query_db(query, args=(), one=False):
     conn.close()
     return (rv[0] if rv else None) if one else rv
 
-@app.route('/')
-def index():
-    return render_template('index.html')
 
+@app.before_request
+def set_device_id():
+    if 'device_id' not in request.cookies:
+        resp = make_response()
+        resp.set_cookie('device_id', str(uuid.uuid4()))
+        return resp
+
+
+@app.route('/')
+def serve_index():
+    return send_from_directory('static', 'index.html')
+
+@app.route('/<path:path>')
+def serve_static(path):
+    return send_from_directory('static', path)
 
 @app.route('/get_last_collection', methods=['GET'])
 def get_last_collection():
@@ -44,6 +57,7 @@ def request_collection():
     street_id = data.get('street_id')
     garbage_type = data.get('garbage_type')
     state = int(data.get('state'))
+    device_id = request.cookies.get('device_id')
     ip = request.remote_addr
 
     if not street_id or not garbage_type:
@@ -54,7 +68,7 @@ def request_collection():
         INSERT INTO user_request (latitude, longitude, street_id, garbage_type, state, device_id, ip)
         VALUES (NULL, NULL, ?, ?, ?, ?, ?)
         """,
-        [street_id, garbage_type, state, 0, ip] 
+        [street_id, garbage_type, state, device_id, ip]
     )
     return jsonify({"message": "Collection request submitted successfully"}), 201
 

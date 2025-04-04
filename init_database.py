@@ -26,3 +26,4 @@ def setup_database(db_file, sql_file):
 # Example usage
 setup_database("data/garbage_collection.db", "db_migrations/create_database.sql")
 setup_database("data/garbage_collection.db", "db_migrations/insert_mappings.sql")
+setup_database("data/garbage_collection.db", "db_migrations/add_view.sql")
