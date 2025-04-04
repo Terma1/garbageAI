@@ -1,0 +1,4452 @@
+{
+    "19937": [
+        {
+            "id": "str_19950",
+            "text": "Abtsleitenweg"
+        },
+        {
+            "id": "str_505731",
+            "text": "Agnes-Sapper-Straße"
+        },
+        {
+            "id": "str_19957",
+            "text": "Alandsgrund"
+        },
+        {
+            "id": "str_19961",
+            "text": "Albert-Hoffa-Straße"
+        },
+        {
+            "id": "str_505734",
+            "text": "Alte Fernstraße"
+        },
+        {
+            "id": "str_505739",
+            "text": "Am Alten Flugfeld"
+        },
+        {
+            "id": "str_19984",
+            "text": "Am Galgenberg"
+        },
+        {
+            "id": "str_19993",
+            "text": "Am Hubland"
+        },
+        {
+            "id": "str_19997",
+            "text": "Am Kugelfang"
+        },
+        {
+            "id": "str_505729",
+            "text": "Am Terrassenpark"
+        },
+        {
+            "id": "str_20045",
+            "text": "An der Sternwarte"
+        },
+        {
+            "id": "str_20051",
+            "text": "Anton-Bruckner-Straße"
+        },
+        {
+            "id": "str_20054",
+            "text": "Armin-Knab-Straße"
+        },
+        {
+            "id": "str_505727",
+            "text": "Athanasius-Kircher-Straße"
+        },
+        {
+            "id": "str_20062",
+            "text": "August-Sperl-Straße"
+        },
+        {
+            "id": "str_20064",
+            "text": "Äußerer Hublandweg"
+        },
+        {
+            "id": "str_20065",
+            "text": "Äußerer Neubergweg"
+        },
+        {
+            "id": "str_20066",
+            "text": "Äußerer Tränkeweg"
+        },
+        {
+            "id": "str_20074",
+            "text": "Barbarastraße"
+        },
+        {
+            "id": "str_20081",
+            "text": "Behrstraße"
+        },
+        {
+            "id": "str_20104",
+            "text": "Bodelschwingstraße"
+        },
+        {
+            "id": "str_20114",
+            "text": "Brettreichstraße"
+        },
+        {
+            "id": "str_20131",
+            "text": "Christelsteige"
+        },
+        {
+            "id": "str_20135",
+            "text": "Cronthalstraße"
+        },
+        {
+            "id": "str_20137",
+            "text": "Damaschkestraße"
+        },
+        {
+            "id": "str_505726",
+            "text": "Dr.-Georg-Fuchs-Straße"
+        },
+        {
+            "id": "str_20165",
+            "text": "Ebertsklinge"
+        },
+        {
+            "id": "str_20168",
+            "text": "Edelstraße"
+        },
+        {
+            "id": "str_20178",
+            "text": "Eisenhoferstraße"
+        },
+        {
+            "id": "str_20179",
+            "text": "Eisenmannstraße"
+        },
+        {
+            "id": "str_20181",
+            "text": "Elferweg"
+        },
+        {
+            "id": "str_505730",
+            "text": "Elisabeth-Scheuring-Straße"
+        },
+        {
+            "id": "str_20184",
+            "text": "Emy-Roeder-Straße"
+        },
+        {
+            "id": "str_20193",
+            "text": "Erthalstraße"
+        },
+        {
+            "id": "str_20194",
+            "text": "Erzherzog-Karl-Platz"
+        },
+        {
+            "id": "str_505732",
+            "text": "Ferdinand-Tietz-Straße"
+        },
+        {
+            "id": "str_20210",
+            "text": "Fichtestraße"
+        },
+        {
+            "id": "str_505728",
+            "text": "Franz-Brentano-Straße"
+        },
+        {
+            "id": "str_20226",
+            "text": "Franz-Liszt-Straße"
+        },
+        {
+            "id": "str_20229",
+            "text": "Franz-Schubert-Straße"
+        },
+        {
+            "id": "str_20230",
+            "text": "Franz-Stadelmayer-Straße"
+        },
+        {
+            "id": "str_20231",
+            "text": "Frauenlandplatz"
+        },
+        {
+            "id": "str_20232",
+            "text": "Frauenlandstraße"
+        },
+        {
+            "id": "str_20240",
+            "text": "Friedrich-Fick-Straße"
+        },
+        {
+            "id": "str_20245",
+            "text": "Friesstraße"
+        },
+        {
+            "id": "str_20248",
+            "text": "Fröbelstraße"
+        },
+        {
+            "id": "str_20259",
+            "text": "Gegenbaurstraße"
+        },
+        {
+            "id": "str_20266",
+            "text": "Georg-Sittig-Straße"
+        },
+        {
+            "id": "str_20268",
+            "text": "Gerbrunner Weg"
+        },
+        {
+            "id": "str_505735",
+            "text": "Gerda-Laufer-Straße"
+        },
+        {
+            "id": "str_20271",
+            "text": "Gertrud-von-le-Fort-Straße"
+        },
+        {
+            "id": "str_20276",
+            "text": "Gneisenaustraße"
+        },
+        {
+            "id": "str_20277",
+            "text": "Göbelslehenstraße"
+        },
+        {
+            "id": "str_20286",
+            "text": "Grasweg"
+        },
+        {
+            "id": "str_20288",
+            "text": "Greisingstraße"
+        },
+        {
+            "id": "str_20298",
+            "text": "Gutental"
+        },
+        {
+            "id": "str_20302",
+            "text": "Hackstetterstraße"
+        },
+        {
+            "id": "str_20305",
+            "text": "Händelstraße"
+        },
+        {
+            "id": "str_20308",
+            "text": "Hans-Löffler-Straße"
+        },
+        {
+            "id": "str_20318",
+            "text": "Haydnstraße"
+        },
+        {
+            "id": "str_20323",
+            "text": "Heimgartenweg"
+        },
+        {
+            "id": "str_20332",
+            "text": "Henlestraße"
+        },
+        {
+            "id": "str_20336",
+            "text": "Hermann-Schell-Straße"
+        },
+        {
+            "id": "str_20359",
+            "text": "Hofmeierstraße"
+        },
+        {
+            "id": "str_20365",
+            "text": "Holzbühlweg"
+        },
+        {
+            "id": "str_20372",
+            "text": "Hubertistraße"
+        },
+        {
+            "id": "str_505725",
+            "text": "Hublandplatz"
+        },
+        {
+            "id": "str_506025",
+            "text": "Ilse-Totzke-Straße"
+        },
+        {
+            "id": "str_20382",
+            "text": "Im Hubland"
+        },
+        {
+            "id": "str_20388",
+            "text": "Innerer Hublandweg"
+        },
+        {
+            "id": "str_20392",
+            "text": "Jakob-Riedinger-Straße"
+        },
+        {
+            "id": "str_20393",
+            "text": "Johannes-Kepler-Straße"
+        },
+        {
+            "id": "str_505736",
+            "text": "John-Skilton-Straße"
+        },
+        {
+            "id": "str_20412",
+            "text": "Kantstraße"
+        },
+        {
+            "id": "str_20419",
+            "text": "Karl-Ritter-von-Frisch-Weg"
+        },
+        {
+            "id": "str_20428",
+            "text": "Keesburgstraße"
+        },
+        {
+            "id": "str_20431",
+            "text": "Kettelerstraße"
+        },
+        {
+            "id": "str_20436",
+            "text": "Kirchbühlstraße"
+        },
+        {
+            "id": "str_20440",
+            "text": "Kittelstraße"
+        },
+        {
+            "id": "str_505740",
+            "text": "Landsteinerstraße"
+        },
+        {
+            "id": "str_20474",
+            "text": "Lange Bögen"
+        },
+        {
+            "id": "str_20482",
+            "text": "Lehnleitenweg"
+        },
+        {
+            "id": "str_505737",
+            "text": "Leightonstraße"
+        },
+        {
+            "id": "str_20488",
+            "text": "Lendnerstraße"
+        },
+        {
+            "id": "str_20491",
+            "text": "Leo-Weismantel-Straße"
+        },
+        {
+            "id": "str_20492",
+            "text": "Lerchenhain"
+        },
+        {
+            "id": "str_20493",
+            "text": "Lerchenweg"
+        },
+        {
+            "id": "str_20495",
+            "text": "Leubestraße"
+        },
+        {
+            "id": "str_20511",
+            "text": "Lortzingstraße"
+        },
+        {
+            "id": "str_505741",
+            "text": "Magdalena-Schoch-Straße"
+        },
+        {
+            "id": "str_20526",
+            "text": "Maingäßchen"
+        },
+        {
+            "id": "str_20533",
+            "text": "Marianhillstraße"
+        },
+        {
+            "id": "str_20543",
+            "text": "Matthias-Ehrenfried-Straße"
+        },
+        {
+            "id": "str_20546",
+            "text": "Maurmeierstraße"
+        },
+        {
+            "id": "str_20549",
+            "text": "Max-Heim-Straße"
+        },
+        {
+            "id": "str_20552",
+            "text": "Max-Reger-Straße"
+        },
+        {
+            "id": "str_20559",
+            "text": "Methfesselstraße"
+        },
+        {
+            "id": "str_20560",
+            "text": "Meyer-Olbersleben-Straße"
+        },
+        {
+            "id": "str_20569",
+            "text": "Mittlerer Neubergweg"
+        },
+        {
+            "id": "str_20576",
+            "text": "Mönchbergstraße"
+        },
+        {
+            "id": "str_20582",
+            "text": "Mozartstraße"
+        },
+        {
+            "id": "str_20587",
+            "text": "Nachtigallenweg"
+        },
+        {
+            "id": "str_20601",
+            "text": "Nopitschstraße"
+        },
+        {
+            "id": "str_505733",
+            "text": "Norbert-Glanzberg-Straße"
+        },
+        {
+            "id": "str_20611",
+            "text": "Oberer Bogenweg"
+        },
+        {
+            "id": "str_20621",
+            "text": "Oberer Neubergweg"
+        },
+        {
+            "id": "str_20639",
+            "text": "Otto-Nagler-Straße"
+        },
+        {
+            "id": "str_20640",
+            "text": "Otto-Richter-Straße"
+        },
+        {
+            "id": "str_20649",
+            "text": "Parsevalstraße"
+        },
+        {
+            "id": "str_20655",
+            "text": "Peter-Schneider-Straße"
+        },
+        {
+            "id": "str_20678",
+            "text": "Popspfad"
+        },
+        {
+            "id": "str_20702",
+            "text": "Richard-Strauß-Straße"
+        },
+        {
+            "id": "str_20703",
+            "text": "Richard-Wagner-Straße"
+        },
+        {
+            "id": "str_20760",
+            "text": "Rosa-Buchbinder-Straße"
+        },
+        {
+            "id": "str_20738",
+            "text": "Rottendorfer Straße 15a-Ende"
+        },
+        {
+            "id": "str_506802",
+            "text": "Ruth-Pfau-Straße"
+        },
+        {
+            "id": "str_20747",
+            "text": "Salvatorstraße"
+        },
+        {
+            "id": "str_20749",
+            "text": "Sandbergerstraße"
+        },
+        {
+            "id": "str_20750",
+            "text": "Sandbergstraße"
+        },
+        {
+            "id": "str_20752",
+            "text": "Sanderheimrichsleitenweg"
+        },
+        {
+            "id": "str_20754",
+            "text": "Sanderrothstraße"
+        },
+        {
+            "id": "str_20763",
+            "text": "Schanzstraße"
+        },
+        {
+            "id": "str_20768",
+            "text": "Schellingstraße"
+        },
+        {
+            "id": "str_20780",
+            "text": "Schlörstraße"
+        },
+        {
+            "id": "str_20806",
+            "text": "Sebastian-Merkle-Straße"
+        },
+        {
+            "id": "str_20813",
+            "text": "Seinsheimstraße"
+        },
+        {
+            "id": "str_20816",
+            "text": "Seuffertstraße"
+        },
+        {
+            "id": "str_20820",
+            "text": "Silcherstraße"
+        },
+        {
+            "id": "str_20823",
+            "text": "Simon-Breu-Straße"
+        },
+        {
+            "id": "str_505738",
+            "text": "Skyline-Hill-Straße"
+        },
+        {
+            "id": "str_20824",
+            "text": "Sodenstraße"
+        },
+        {
+            "id": "str_20848",
+            "text": "Stegerwaldstraße"
+        },
+        {
+            "id": "str_20849",
+            "text": "Steidlestraße"
+        },
+        {
+            "id": "str_20864",
+            "text": "Sterenstraße"
+        },
+        {
+            "id": "str_20868",
+            "text": "Steubenstraße"
+        },
+        {
+            "id": "str_20870",
+            "text": "Stöhrstraße"
+        },
+        {
+            "id": "str_20887",
+            "text": "Theodor-Boveri-Weg"
+        },
+        {
+            "id": "str_20337",
+            "text": "Theresia-Winterstein-Straße"
+        },
+        {
+            "id": "str_20898",
+            "text": "Trautenauer Straße"
+        },
+        {
+            "id": "str_20906",
+            "text": "Ulrichstraße"
+        },
+        {
+            "id": "str_20915",
+            "text": "Unterer Hublandweg"
+        },
+        {
+            "id": "str_20921",
+            "text": "Unterer Neubergweg"
+        },
+        {
+            "id": "str_20939",
+            "text": "Vogelweiderweg"
+        },
+        {
+            "id": "str_20940",
+            "text": "Voglerstraße"
+        },
+        {
+            "id": "str_20941",
+            "text": "Von-Luxburg-Straße"
+        },
+        {
+            "id": "str_20953",
+            "text": "Waltherstraße"
+        },
+        {
+            "id": "str_20954",
+            "text": "Walther-von-der-Vogelweide-Straße"
+        },
+        {
+            "id": "str_20986",
+            "text": "Wittelsbacherplatz"
+        },
+        {
+            "id": "str_20987",
+            "text": "Wittelsbacherstraße"
+        },
+        {
+            "id": "str_21001",
+            "text": "Zeppelinstraße"
+        },
+        {
+            "id": "str_21013",
+            "text": "Zu-Rhein-Straße"
+        },
+        {
+            "id": "str_21014",
+            "text": "Zürnstraße"
+        },
+        {
+            "id": "str_21015",
+            "text": "Zweierweg"
+        },
+        {
+            "id": "str_21018",
+            "text": "Zwerchgraben"
+        }
+    ],
+    "19943": [
+        {
+            "id": "str_19951",
+            "text": "Adalberostraße"
+        },
+        {
+            "id": "str_20034",
+            "text": "Amalienstraße"
+        },
+        {
+            "id": "str_19982",
+            "text": "Am Exerzierplatz"
+        },
+        {
+            "id": "str_20027",
+            "text": "Am Studentenhaus"
+        },
+        {
+            "id": "str_20055",
+            "text": "Arndtstraße"
+        },
+        {
+            "id": "str_20085",
+            "text": "Bentheimstraße"
+        },
+        {
+            "id": "str_20113",
+            "text": "Breslauer Straße"
+        },
+        {
+            "id": "str_20133",
+            "text": "Conradistraße"
+        },
+        {
+            "id": "str_20138",
+            "text": "Danziger Straße"
+        },
+        {
+            "id": "str_20171",
+            "text": "Egloffsteinstraße"
+        },
+        {
+            "id": "str_20173",
+            "text": "Eichendorffstraße"
+        },
+        {
+            "id": "str_20206",
+            "text": "Fechenbachstraße"
+        },
+        {
+            "id": "str_20207",
+            "text": "Feggrube"
+        },
+        {
+            "id": "str_20208",
+            "text": "Felix-Dahn-Straße"
+        },
+        {
+            "id": "str_20213",
+            "text": "Florastraße"
+        },
+        {
+            "id": "str_20214",
+            "text": "Floraweg"
+        },
+        {
+            "id": "str_20227",
+            "text": "Franz-Ludwig-Straße"
+        },
+        {
+            "id": "str_20235",
+            "text": "Friedenstraße"
+        },
+        {
+            "id": "str_20239",
+            "text": "Friedrich-Ebert-Ring ab 13"
+        },
+        {
+            "id": "str_20243",
+            "text": "Friedrich-Spee-Straße"
+        },
+        {
+            "id": "str_20256",
+            "text": "Gartenstraße"
+        },
+        {
+            "id": "str_20260",
+            "text": "Geibelstraße"
+        },
+        {
+            "id": "str_20285",
+            "text": "Graf-Luckner-Weiher"
+        },
+        {
+            "id": "str_20287",
+            "text": "Greiffenclaustraße"
+        },
+        {
+            "id": "str_20291",
+            "text": "Grillparzerstraße"
+        },
+        {
+            "id": "str_20319",
+            "text": "Hebbelstraße"
+        },
+        {
+            "id": "str_20353",
+            "text": "Hirschberger Straße"
+        },
+        {
+            "id": "str_20378",
+            "text": "Huttenstraße"
+        },
+        {
+            "id": "str_20442",
+            "text": "Kleiststraße"
+        },
+        {
+            "id": "str_20458",
+            "text": "Königsberger Straße"
+        },
+        {
+            "id": "str_20494",
+            "text": "Lessingstraße"
+        },
+        {
+            "id": "str_20500",
+            "text": "Liegnitzer Straße"
+        },
+        {
+            "id": "str_20513",
+            "text": "Ludwigkai"
+        },
+        {
+            "id": "str_20548",
+            "text": "Max-Dauthendey-Straße"
+        },
+        {
+            "id": "str_20324",
+            "text": "Milly-Marbe-Fries-Weg"
+        },
+        {
+            "id": "str_20591",
+            "text": "Neubergstraße"
+        },
+        {
+            "id": "str_20668",
+            "text": "Platenstraße"
+        },
+        {
+            "id": "str_20684",
+            "text": "Randersackerer Straße"
+        },
+        {
+            "id": "str_20706",
+            "text": "Riemenschneiderstraße ger. Nr."
+        },
+        {
+            "id": "str_20741",
+            "text": "Rückertstraße"
+        },
+        {
+            "id": "str_20751",
+            "text": "Sanderglacisstraße"
+        },
+        {
+            "id": "str_20767",
+            "text": "Scheffelstraße"
+        },
+        {
+            "id": "str_20772",
+            "text": "Schießhausstraße"
+        },
+        {
+            "id": "str_20776",
+            "text": "Schillerstraße"
+        },
+        {
+            "id": "str_20818",
+            "text": "Sieboldstraße"
+        },
+        {
+            "id": "str_20826",
+            "text": "Sonnenstraße"
+        },
+        {
+            "id": "str_20829",
+            "text": "Sophienstraße"
+        },
+        {
+            "id": "str_20867",
+            "text": "Stettiner Straße"
+        },
+        {
+            "id": "str_20888",
+            "text": "Theodor-Heuss-Damm"
+        },
+        {
+            "id": "str_20889",
+            "text": "Theodor-Körner-Straße"
+        },
+        {
+            "id": "str_20894",
+            "text": "Tilsiter Straße"
+        },
+        {
+            "id": "str_20897",
+            "text": "Traubengasse"
+        },
+        {
+            "id": "str_20903",
+            "text": "Uhlandstraße"
+        },
+        {
+            "id": "str_20937",
+            "text": "Virchowstraße"
+        },
+        {
+            "id": "str_20963",
+            "text": "Weingartenstraße"
+        },
+        {
+            "id": "str_20988",
+            "text": "Wölffelstraße"
+        }
+    ],
+    "19944": [
+        {
+            "id": "str_19952",
+            "text": "Adalbert-Stifter-Weg"
+        },
+        {
+            "id": "str_19960",
+            "text": "Albert-Günther-Weg"
+        },
+        {
+            "id": "str_19976",
+            "text": "Am Blosenberg"
+        },
+        {
+            "id": "str_19995",
+            "text": "Am Kalkofen"
+        },
+        {
+            "id": "str_19996",
+            "text": "Am Klößberg"
+        },
+        {
+            "id": "str_20029",
+            "text": "Am Wald"
+        },
+        {
+            "id": "str_20036",
+            "text": "An den drei Pappeln"
+        },
+        {
+            "id": "str_20048",
+            "text": "Annaschlucht"
+        },
+        {
+            "id": "str_20050",
+            "text": "Anne-Frank-Straße"
+        },
+        {
+            "id": "str_20093",
+            "text": "Betpfad"
+        },
+        {
+            "id": "str_20132",
+            "text": "Christoph-Mayer-Weg"
+        },
+        {
+            "id": "str_20199",
+            "text": "Eulensteige"
+        },
+        {
+            "id": "str_20211",
+            "text": "Finkenweg"
+        },
+        {
+            "id": "str_20220",
+            "text": "Frankenwarte"
+        },
+        {
+            "id": "str_20228",
+            "text": "Franzosenweg"
+        },
+        {
+            "id": "str_20270",
+            "text": "Gertraud-Rostosky-Straße"
+        },
+        {
+            "id": "str_20295",
+            "text": "Guggelesgraben"
+        },
+        {
+            "id": "str_20300",
+            "text": "Guttenbergerstraße"
+        },
+        {
+            "id": "str_20309",
+            "text": "Hans-Sachs-Weg"
+        },
+        {
+            "id": "str_20327",
+            "text": "Heinrich-Zeuner-Straße"
+        },
+        {
+            "id": "str_20329",
+            "text": "Heißberg"
+        },
+        {
+            "id": "str_20334",
+            "text": "Hermann-Löns-Weg"
+        },
+        {
+            "id": "str_20349",
+            "text": "Hinterer Johannishof"
+        },
+        {
+            "id": "str_20352",
+            "text": "Hinteres Steinbachtal"
+        },
+        {
+            "id": "str_20363",
+            "text": "Hoher Weg"
+        },
+        {
+            "id": "str_20373",
+            "text": "Hubertusschlucht"
+        },
+        {
+            "id": "str_20374",
+            "text": "Hubertusweg"
+        },
+        {
+            "id": "str_20395",
+            "text": "Johannisweg"
+        },
+        {
+            "id": "str_20405",
+            "text": "Judenbühlweg"
+        },
+        {
+            "id": "str_20413",
+            "text": "Käppele"
+        },
+        {
+            "id": "str_20418",
+            "text": "Karl-Pfetscher-Weg"
+        },
+        {
+            "id": "str_20441",
+            "text": "Klara-Löwe-Straße"
+        },
+        {
+            "id": "str_20443",
+            "text": "Kleßbergsteige"
+        },
+        {
+            "id": "str_20451",
+            "text": "Kniebreche"
+        },
+        {
+            "id": "str_20457",
+            "text": "König-Heinrich-Straße"
+        },
+        {
+            "id": "str_20484",
+            "text": "Leistenstraße"
+        },
+        {
+            "id": "str_20487",
+            "text": "Leitenpfad"
+        },
+        {
+            "id": "str_20497",
+            "text": "Leutfresserweg"
+        },
+        {
+            "id": "str_20520",
+            "text": "Maasweg"
+        },
+        {
+            "id": "str_20529",
+            "text": "Mainleitenweg"
+        },
+        {
+            "id": "str_20534",
+            "text": "Maria-Theresia-Promenade"
+        },
+        {
+            "id": "str_20556",
+            "text": "Meisenweg"
+        },
+        {
+            "id": "str_20558",
+            "text": "Mergentheimer Straße 1-21 ung./4-110 ger. Nr."
+        },
+        {
+            "id": "str_20565",
+            "text": "Mittlerer Dallenbergweg"
+        },
+        {
+            "id": "str_20571",
+            "text": "Mittlerer Steinbachweg"
+        },
+        {
+            "id": "str_20600",
+            "text": "Nikolausstraße"
+        },
+        {
+            "id": "str_20613",
+            "text": "Oberer Dallenbergweg"
+        },
+        {
+            "id": "str_20619",
+            "text": "Oberer Leitenweg"
+        },
+        {
+            "id": "str_20623",
+            "text": "Oberer Steinbachweg"
+        },
+        {
+            "id": "str_20724",
+            "text": "Roßbergweg"
+        },
+        {
+            "id": "str_20727",
+            "text": "Rothäckerweg"
+        },
+        {
+            "id": "str_20730",
+            "text": "Rothweg"
+        },
+        {
+            "id": "str_20786",
+            "text": "Schöllhammerweg"
+        },
+        {
+            "id": "str_20804",
+            "text": "Sebastianisteig"
+        },
+        {
+            "id": "str_20805",
+            "text": "Sebastian-Kneipp-Weg"
+        },
+        {
+            "id": "str_20831",
+            "text": "Spechtweg"
+        },
+        {
+            "id": "str_20835",
+            "text": "Spitalweg"
+        },
+        {
+            "id": "str_20836",
+            "text": "Spittelbergweg"
+        },
+        {
+            "id": "str_20855",
+            "text": "Steinbachtal"
+        },
+        {
+            "id": "str_20872",
+            "text": "Straße zum Waldfriedhof"
+        },
+        {
+            "id": "str_20914",
+            "text": "Unterer Dallenbergweg"
+        },
+        {
+            "id": "str_20928",
+            "text": "V.-A.-Fischer-Weg"
+        },
+        {
+            "id": "str_20943",
+            "text": "Vorderer Johannishof"
+        },
+        {
+            "id": "str_20948",
+            "text": "Waldkugelweg"
+        },
+        {
+            "id": "str_20984",
+            "text": "Winterleitenweg"
+        }
+    ],
+    "19945": [
+        {
+            "id": "str_19953",
+            "text": "Adam-Güthlein-Straße"
+        },
+        {
+            "id": "str_19973",
+            "text": "Am Altenberg"
+        },
+        {
+            "id": "str_19981",
+            "text": "Am Eselsbach"
+        },
+        {
+            "id": "str_20018",
+            "text": "Am Sonnenberg"
+        },
+        {
+            "id": "str_20021",
+            "text": "Am Stadtberg"
+        },
+        {
+            "id": "str_20022",
+            "text": "Am Steg"
+        },
+        {
+            "id": "str_20033",
+            "text": "Am Zehentfreien"
+        },
+        {
+            "id": "str_20035",
+            "text": "An den Breiten"
+        },
+        {
+            "id": "str_20040",
+            "text": "An der Linde"
+        },
+        {
+            "id": "str_20042",
+            "text": "An der Pleichach"
+        },
+        {
+            "id": "str_20073",
+            "text": "Banatstraße"
+        },
+        {
+            "id": "str_20107",
+            "text": "Bonhoefferstraße"
+        },
+        {
+            "id": "str_20111",
+            "text": "Breite Länge"
+        },
+        {
+            "id": "str_20119",
+            "text": "Brunnenstraße"
+        },
+        {
+            "id": "str_20120",
+            "text": "Brunnfloßgasse"
+        },
+        {
+            "id": "str_20197",
+            "text": "Essigkrug"
+        },
+        {
+            "id": "str_20198",
+            "text": "Estenfelder Straße"
+        },
+        {
+            "id": "str_20219",
+            "text": "Frankenstraße 212-Ende ger./199-Ende ung. Nr."
+        },
+        {
+            "id": "str_20258",
+            "text": "Gebr.-Grimm-Straße"
+        },
+        {
+            "id": "str_20280",
+            "text": "Goldbergstraße"
+        },
+        {
+            "id": "str_20290",
+            "text": "Griesäckerstraße"
+        },
+        {
+            "id": "str_20321",
+            "text": "Heide"
+        },
+        {
+            "id": "str_20348",
+            "text": "Hintere Kirchgasse"
+        },
+        {
+            "id": "str_20351",
+            "text": "Hinterer Kühlenberg"
+        },
+        {
+            "id": "str_20394",
+            "text": "Johann-Herrmann-Straße"
+        },
+        {
+            "id": "str_20468",
+            "text": "Kronbergstraße"
+        },
+        {
+            "id": "str_20469",
+            "text": "Kühlenbergstraße"
+        },
+        {
+            "id": "str_20476",
+            "text": "Langes Gräthlein"
+        },
+        {
+            "id": "str_20489",
+            "text": "Lengfelder Straße"
+        },
+        {
+            "id": "str_20522",
+            "text": "Maidbronner Weg"
+        },
+        {
+            "id": "str_20561",
+            "text": "Michael-Brand-Straße"
+        },
+        {
+            "id": "str_20564",
+            "text": "Mittlere Heerbergstraße"
+        },
+        {
+            "id": "str_20584",
+            "text": "Mühlweg"
+        },
+        {
+            "id": "str_20606",
+            "text": "Obere Heerbergstraße"
+        },
+        {
+            "id": "str_20607",
+            "text": "Obere Hofgasse"
+        },
+        {
+            "id": "str_20610",
+            "text": "Oberer Adelbergweg"
+        },
+        {
+            "id": "str_20618",
+            "text": "Oberer Kühlenberg"
+        },
+        {
+            "id": "str_20670",
+            "text": "Pleichachgrund"
+        },
+        {
+            "id": "str_20719",
+            "text": "Römische Klinge"
+        },
+        {
+            "id": "str_20721",
+            "text": "Rosa-Hahn-Straße"
+        },
+        {
+            "id": "str_20817",
+            "text": "Siebenbürgenstraße"
+        },
+        {
+            "id": "str_20852",
+            "text": "Steigstraße"
+        },
+        {
+            "id": "str_20860",
+            "text": "Steinlein"
+        },
+        {
+            "id": "str_20839",
+            "text": "St.-Jakobus-Straße"
+        },
+        {
+            "id": "str_20842",
+            "text": "St.-Rochus-Straße"
+        },
+        {
+            "id": "str_20909",
+            "text": "Untere Goldbergstraße"
+        },
+        {
+            "id": "str_20910",
+            "text": "Untere Heerbergstraße"
+        },
+        {
+            "id": "str_20911",
+            "text": "Untere Hofgasse"
+        },
+        {
+            "id": "str_20913",
+            "text": "Unterer Adelbergweg"
+        },
+        {
+            "id": "str_20920",
+            "text": "Unterer Kühlenberg"
+        },
+        {
+            "id": "str_20932",
+            "text": "Versbacher Röthe"
+        },
+        {
+            "id": "str_20933",
+            "text": "Versbacher Straße 100-Ende"
+        },
+        {
+            "id": "str_20951",
+            "text": "Walter-Stier-Straße"
+        },
+        {
+            "id": "str_21012",
+            "text": "Zum Tännig"
+        }
+    ],
+    "19946": [
+        {
+            "id": "str_19954",
+            "text": "Adelgundenweg"
+        },
+        {
+            "id": "str_19968",
+            "text": "Allerseeweg"
+        },
+        {
+            "id": "str_20052",
+            "text": "Antonie-Werr-Straße"
+        },
+        {
+            "id": "str_20086",
+            "text": "Benzstraße"
+        },
+        {
+            "id": "str_20105",
+            "text": "Bohlleitenweg"
+        },
+        {
+            "id": "str_20121",
+            "text": "Brunostraße"
+        },
+        {
+            "id": "str_20136",
+            "text": "Daimlerstraße"
+        },
+        {
+            "id": "str_20143",
+            "text": "Dieselstraße"
+        },
+        {
+            "id": "str_20156",
+            "text": "Dr.-Maria-Probst-Straße"
+        },
+        {
+            "id": "str_20177",
+            "text": "Eiseneckstraße"
+        },
+        {
+            "id": "str_20192",
+            "text": "Erster Siedlungsweg"
+        },
+        {
+            "id": "str_20204",
+            "text": "Fasbenderstraße"
+        },
+        {
+            "id": "str_20221",
+            "text": "Frankfurter Straße"
+        },
+        {
+            "id": "str_20223",
+            "text": "Franz-Horn-Straße"
+        },
+        {
+            "id": "str_20244",
+            "text": "Friedrichstraße"
+        },
+        {
+            "id": "str_20249",
+            "text": "Fröhlichstraße"
+        },
+        {
+            "id": "str_20255",
+            "text": "Gänsleinsweg"
+        },
+        {
+            "id": "str_20265",
+            "text": "Georg-Eydel-Straße"
+        },
+        {
+            "id": "str_20281",
+            "text": "Gosbertsteige"
+        },
+        {
+            "id": "str_20296",
+            "text": "Gulbranssonstraße"
+        },
+        {
+            "id": "str_20301",
+            "text": "Haafstraße"
+        },
+        {
+            "id": "str_20311",
+            "text": "Hartmannstraße"
+        },
+        {
+            "id": "str_20346",
+            "text": "Hexenbruchweg"
+        },
+        {
+            "id": "str_20355",
+            "text": "Höchberger Straße"
+        },
+        {
+            "id": "str_20390",
+            "text": "Jägerstraße"
+        },
+        {
+            "id": "str_20490",
+            "text": "Leonhard-Frank-Promenade"
+        },
+        {
+            "id": "str_20515",
+            "text": "Ludwig-Weis-Straße"
+        },
+        {
+            "id": "str_20518",
+            "text": "Luitpoldstraße"
+        },
+        {
+            "id": "str_20524",
+            "text": "Maillingerstraße"
+        },
+        {
+            "id": "str_20525",
+            "text": "Mainaustraße"
+        },
+        {
+            "id": "str_20535",
+            "text": "Marienberg"
+        },
+        {
+            "id": "str_20551",
+            "text": "Max-Planck-Straße"
+        },
+        {
+            "id": "str_20562",
+            "text": "Michelstraße"
+        },
+        {
+            "id": "str_20575",
+            "text": "Moltkestraße"
+        },
+        {
+            "id": "str_20580",
+            "text": "Moscheeweg"
+        },
+        {
+            "id": "str_20588",
+            "text": "Neidertstraße"
+        },
+        {
+            "id": "str_20595",
+            "text": "Neunerplatz"
+        },
+        {
+            "id": "str_20612",
+            "text": "Oberer Burgweg"
+        },
+        {
+            "id": "str_20662",
+            "text": "Pfarrer-Paul-Nützel-Straße"
+        },
+        {
+            "id": "str_20682",
+            "text": "Radulfsteige"
+        },
+        {
+            "id": "str_20726",
+            "text": "Rotenhanstraße"
+        },
+        {
+            "id": "str_20745",
+            "text": "Saalgasse"
+        },
+        {
+            "id": "str_20764",
+            "text": "Scharnhorststraße"
+        },
+        {
+            "id": "str_20771",
+            "text": "Scherenbergstraße"
+        },
+        {
+            "id": "str_20791",
+            "text": "Schorkstraße"
+        },
+        {
+            "id": "str_20807",
+            "text": "Sedanstraße"
+        },
+        {
+            "id": "str_20811",
+            "text": "Seeweg"
+        },
+        {
+            "id": "str_20832",
+            "text": "Spessartstraße"
+        },
+        {
+            "id": "str_20854",
+            "text": "Steinachstraße"
+        },
+        {
+            "id": "str_20878",
+            "text": "Talavera"
+        },
+        {
+            "id": "str_20936",
+            "text": "Vierter Siedlungsweg"
+        },
+        {
+            "id": "str_20942",
+            "text": "Von-Mieg-Straße"
+        },
+        {
+            "id": "str_20960",
+            "text": "Weg zur Zeller Waldspitze"
+        },
+        {
+            "id": "str_20966",
+            "text": "Weißenburgstraße"
+        },
+        {
+            "id": "str_20978",
+            "text": "Wilhelm-Dahl-Straße"
+        },
+        {
+            "id": "str_20993",
+            "text": "Wörthstraße"
+        },
+        {
+            "id": "str_20994",
+            "text": "Wredestraße"
+        },
+        {
+            "id": "str_20996",
+            "text": "Ysenburgstraße"
+        },
+        {
+            "id": "str_21000",
+            "text": "Zellerangen-Forst"
+        },
+        {
+            "id": "str_21017",
+            "text": "Zweiter Siedlungsweg"
+        }
+    ],
+    "19941": [
+        {
+            "id": "str_19955",
+            "text": "Ahornweg"
+        },
+        {
+            "id": "str_19962",
+            "text": "Albert-Schweitzer-Straße"
+        },
+        {
+            "id": "str_19965",
+            "text": "Alfons-M.-Mittnacht-Straße"
+        },
+        {
+            "id": "str_19971",
+            "text": "Alte Würzburger Straße"
+        },
+        {
+            "id": "str_19974",
+            "text": "Am Bauhof"
+        },
+        {
+            "id": "str_19988",
+            "text": "Am Handelshof"
+        },
+        {
+            "id": "str_19989",
+            "text": "Am Hasensprung"
+        },
+        {
+            "id": "str_19992",
+            "text": "Am Hölzlein"
+        },
+        {
+            "id": "str_19999",
+            "text": "Am Mühlenhang"
+        },
+        {
+            "id": "str_20014",
+            "text": "Am Schießgraben"
+        },
+        {
+            "id": "str_20016",
+            "text": "Am Schloßgarten"
+        },
+        {
+            "id": "str_20019",
+            "text": "Am Sonnenhof"
+        },
+        {
+            "id": "str_20020",
+            "text": "Am Sonnfeld"
+        },
+        {
+            "id": "str_20031",
+            "text": "Am Weinberg"
+        },
+        {
+            "id": "str_20058",
+            "text": "Auf der Läng"
+        },
+        {
+            "id": "str_20059",
+            "text": "Auf der Röthe"
+        },
+        {
+            "id": "str_20060",
+            "text": "Auf der Schanz"
+        },
+        {
+            "id": "str_20089",
+            "text": "Bergstraße"
+        },
+        {
+            "id": "str_20096",
+            "text": "Birkenstraße"
+        },
+        {
+            "id": "str_20124",
+            "text": "Buchenweg"
+        },
+        {
+            "id": "str_20130",
+            "text": "Carl-Orff-Straße"
+        },
+        {
+            "id": "str_20152",
+            "text": "Dorfgraben"
+        },
+        {
+            "id": "str_506072",
+            "text": "Dr.-Georg-Teichtweier-Straße"
+        },
+        {
+            "id": "str_20155",
+            "text": "Dr.-Heinrich-Wunderlich-Str."
+        },
+        {
+            "id": "str_20188",
+            "text": "Erlenweg"
+        },
+        {
+            "id": "str_20196",
+            "text": "Essiggarten"
+        },
+        {
+            "id": "str_20201",
+            "text": "Falkenstraße"
+        },
+        {
+            "id": "str_20203",
+            "text": "Fasanenstraße"
+        },
+        {
+            "id": "str_20215",
+            "text": "Florian-Geyer-Straße"
+        },
+        {
+            "id": "str_20216",
+            "text": "Flürleinstraße"
+        },
+        {
+            "id": "str_20217",
+            "text": "Frankenlandstraße"
+        },
+        {
+            "id": "str_20246",
+            "text": "Fritz-Erler-Straße"
+        },
+        {
+            "id": "str_20250",
+            "text": "Frühlingstraße"
+        },
+        {
+            "id": "str_20264",
+            "text": "Georg-Engel-Straße"
+        },
+        {
+            "id": "str_20328",
+            "text": "Heisenbergstraße"
+        },
+        {
+            "id": "str_20335",
+            "text": "Hermann-Mitnacht-Straße"
+        },
+        {
+            "id": "str_20338",
+            "text": "Hermann-Zürrlein-Str."
+        },
+        {
+            "id": "str_20339",
+            "text": "Herrnhofstraße"
+        },
+        {
+            "id": "str_20384",
+            "text": "Industriestraße"
+        },
+        {
+            "id": "str_20389",
+            "text": "Jägerruh"
+        },
+        {
+            "id": "str_20391",
+            "text": "Jahnstraße"
+        },
+        {
+            "id": "str_20397",
+            "text": "Johanniterweg"
+        },
+        {
+            "id": "str_20430",
+            "text": "Keltenstraße"
+        },
+        {
+            "id": "str_20470",
+            "text": "Kürnachtalstraße"
+        },
+        {
+            "id": "str_20472",
+            "text": "Kurze Gasse"
+        },
+        {
+            "id": "str_20480",
+            "text": "Laurentiusstraße"
+        },
+        {
+            "id": "str_404556",
+            "text": "Lengfelder Höh"
+        },
+        {
+            "id": "str_506723",
+            "text": "Lengfelder Landwehr"
+        },
+        {
+            "id": "str_20498",
+            "text": "Liborius-Wagner-Straße"
+        },
+        {
+            "id": "str_20530",
+            "text": "Malterserweg"
+        },
+        {
+            "id": "str_20628",
+            "text": "Odenwaldstraße"
+        },
+        {
+            "id": "str_20641",
+            "text": "Otto-Roth-Straße"
+        },
+        {
+            "id": "str_20644",
+            "text": "Pacotistraße"
+        },
+        {
+            "id": "str_20664",
+            "text": "Philipp-Fasel-Str."
+        },
+        {
+            "id": "str_20681",
+            "text": "Rabanus-Maurus-Straße"
+        },
+        {
+            "id": "str_20692",
+            "text": "Rembrandtstraße"
+        },
+        {
+            "id": "str_20705",
+            "text": "Riedstraße"
+        },
+        {
+            "id": "str_20712",
+            "text": "Ritterstiftstraße"
+        },
+        {
+            "id": "str_20714",
+            "text": "Robert-Kirchhoff-Straße"
+        },
+        {
+            "id": "str_404557",
+            "text": "Roland-Frank-Straße"
+        },
+        {
+            "id": "str_20748",
+            "text": "Sandäcker"
+        },
+        {
+            "id": "str_20777",
+            "text": "Schlehenweg"
+        },
+        {
+            "id": "str_20790",
+            "text": "Schöpf"
+        },
+        {
+            "id": "str_20799",
+            "text": "Schützensteige"
+        },
+        {
+            "id": "str_20810",
+            "text": "Seepfad"
+        },
+        {
+            "id": "str_20825",
+            "text": "Sonnenhang"
+        },
+        {
+            "id": "str_20828",
+            "text": "Sonnleite"
+        },
+        {
+            "id": "str_20845",
+            "text": "Stauferstraße"
+        },
+        {
+            "id": "str_20851",
+            "text": "Steigerwaldstraße"
+        },
+        {
+            "id": "str_20856",
+            "text": "Steinbruchweg"
+        },
+        {
+            "id": "str_20882",
+            "text": "Taschenpfad"
+        },
+        {
+            "id": "str_20938",
+            "text": "Vogelsangweg"
+        },
+        {
+            "id": "str_20947",
+            "text": "Waidmannsteige"
+        },
+        {
+            "id": "str_20958",
+            "text": "Weg zum Sportplatz"
+        },
+        {
+            "id": "str_20974",
+            "text": "Werner-von-Siemens-Straße 28-Ende"
+        }
+    ],
+    "19940": [
+        {
+            "id": "str_19956",
+            "text": "Akaziensteige"
+        },
+        {
+            "id": "str_19975",
+            "text": "Am Baumland"
+        },
+        {
+            "id": "str_403109",
+            "text": "Am Brunnen"
+        },
+        {
+            "id": "str_19978",
+            "text": "Am Brünnlein"
+        },
+        {
+            "id": "str_19983",
+            "text": "Am Feldkreuz"
+        },
+        {
+            "id": "str_19991",
+            "text": "Am Heuchel"
+        },
+        {
+            "id": "str_20015",
+            "text": "Am Schloß"
+        },
+        {
+            "id": "str_20024",
+            "text": "Am Stockbrunnen"
+        },
+        {
+            "id": "str_20047",
+            "text": "Anemonenweg"
+        },
+        {
+            "id": "str_20115",
+            "text": "Brombergweg"
+        },
+        {
+            "id": "str_20151",
+            "text": "Dorfäcker"
+        },
+        {
+            "id": "str_20172",
+            "text": "Eibelstadter Weg"
+        },
+        {
+            "id": "str_403111",
+            "text": "Eibenweg"
+        },
+        {
+            "id": "str_403110",
+            "text": "Eichenweg"
+        },
+        {
+            "id": "str_20185",
+            "text": "Engelsweg"
+        },
+        {
+            "id": "str_20190",
+            "text": "Ernst-Winter-Weg"
+        },
+        {
+            "id": "str_20195",
+            "text": "Eschenweg"
+        },
+        {
+            "id": "str_20236",
+            "text": "Friedhofstraße"
+        },
+        {
+            "id": "str_20347",
+            "text": "Hintere Heuchel"
+        },
+        {
+            "id": "str_20356",
+            "text": "Hoffeldäcker"
+        },
+        {
+            "id": "str_20364",
+            "text": "Holunderweg"
+        },
+        {
+            "id": "str_20424",
+            "text": "Kastanienstraße"
+        },
+        {
+            "id": "str_20433",
+            "text": "Kiefernweg"
+        },
+        {
+            "id": "str_403112",
+            "text": "Kirschbaumweg"
+        },
+        {
+            "id": "str_403113",
+            "text": "Kleines Flürlein"
+        },
+        {
+            "id": "str_20478",
+            "text": "Lärchenweg"
+        },
+        {
+            "id": "str_20501",
+            "text": "Lilienweg"
+        },
+        {
+            "id": "str_20504",
+            "text": "Lindenstraße"
+        },
+        {
+            "id": "str_20505",
+            "text": "Lindflurer Straße"
+        },
+        {
+            "id": "str_403114",
+            "text": "Linsen"
+        },
+        {
+            "id": "str_403115",
+            "text": "Mageritenweg"
+        },
+        {
+            "id": "str_20531",
+            "text": "Mandelbaumweg"
+        },
+        {
+            "id": "str_403116",
+            "text": "Maximilian-Kolbe-Strasse"
+        },
+        {
+            "id": "str_20589",
+            "text": "Nelkenweg"
+        },
+        {
+            "id": "str_20604",
+            "text": "Nußbaumweg"
+        },
+        {
+            "id": "str_20617",
+            "text": "Oberer Kirchplatz"
+        },
+        {
+            "id": "str_20625",
+            "text": "Oberer Torweinberg"
+        },
+        {
+            "id": "str_20687",
+            "text": "Rebenstraße"
+        },
+        {
+            "id": "str_20725",
+            "text": "Rotenburstraße"
+        },
+        {
+            "id": "str_20736",
+            "text": "Rottenbauerer Grund"
+        },
+        {
+            "id": "str_20778",
+            "text": "Schleifweg"
+        },
+        {
+            "id": "str_20782",
+            "text": "Schloßhecke"
+        },
+        {
+            "id": "str_20793",
+            "text": "Schulstraße"
+        },
+        {
+            "id": "str_20794",
+            "text": "Schulzenstraße"
+        },
+        {
+            "id": "str_20846",
+            "text": "Stauffenbergstraße"
+        },
+        {
+            "id": "str_20880",
+            "text": "Tannenweg"
+        },
+        {
+            "id": "str_20901",
+            "text": "Tulpenstraße"
+        },
+        {
+            "id": "str_20904",
+            "text": "Ulmenstraße"
+        },
+        {
+            "id": "str_20919",
+            "text": "Unterer Kirchplatz"
+        },
+        {
+            "id": "str_20923",
+            "text": "Unterer Torweinberg"
+        },
+        {
+            "id": "str_403117",
+            "text": "Wacholderweg"
+        },
+        {
+            "id": "str_20946",
+            "text": "Waidmannsau"
+        },
+        {
+            "id": "str_20961",
+            "text": "Weidenstraße"
+        },
+        {
+            "id": "str_20965",
+            "text": "Weißdornweg"
+        },
+        {
+            "id": "str_20983",
+            "text": "Winterhäuser Weg"
+        },
+        {
+            "id": "str_20991",
+            "text": "Wolfskeelstraße"
+        },
+        {
+            "id": "str_403118",
+            "text": "Würzburger Höhe"
+        },
+        {
+            "id": "str_20997",
+            "text": "Zehntgasse"
+        },
+        {
+            "id": "str_21009",
+            "text": "Zum Himmelreich"
+        },
+        {
+            "id": "str_21011",
+            "text": "Zum Storchenbrünnlein"
+        },
+        {
+            "id": "str_403119",
+            "text": "Zur Würzburger Mehle"
+        }
+    ],
+    "19939": [
+        {
+            "id": "str_19958",
+            "text": "Albert-Balling-Gasse"
+        },
+        {
+            "id": "str_19967",
+            "text": "Allendorfweg"
+        },
+        {
+            "id": "str_19985",
+            "text": "Am Geisberg"
+        },
+        {
+            "id": "str_19990",
+            "text": "Am Heigelsbach"
+        },
+        {
+            "id": "str_19994",
+            "text": "Am Hungrigen Bühl"
+        },
+        {
+            "id": "str_20000",
+            "text": "Am Nikolausspital"
+        },
+        {
+            "id": "str_20001",
+            "text": "Am Nikolaustor"
+        },
+        {
+            "id": "str_20002",
+            "text": "Am Ostbahnhof"
+        },
+        {
+            "id": "str_20008",
+            "text": "Am Rubenland"
+        },
+        {
+            "id": "str_20009",
+            "text": "Am Salmannsturm"
+        },
+        {
+            "id": "str_20032",
+            "text": "Am Westbahnhof"
+        },
+        {
+            "id": "str_20039",
+            "text": "An der Jahnhöhe"
+        },
+        {
+            "id": "str_20043",
+            "text": "An der Stadtmauer"
+        },
+        {
+            "id": "str_20046",
+            "text": "Andreas-Grieser-Straße"
+        },
+        {
+            "id": "str_20053",
+            "text": "Antonius-Lauck-Straße"
+        },
+        {
+            "id": "str_20077",
+            "text": "Bauernpfad"
+        },
+        {
+            "id": "str_20087",
+            "text": "Berggasse"
+        },
+        {
+            "id": "str_20090",
+            "text": "Berlichingenstraße"
+        },
+        {
+            "id": "str_20100",
+            "text": "Blosenbergpfad"
+        },
+        {
+            "id": "str_20101",
+            "text": "Blosenbergweg"
+        },
+        {
+            "id": "str_20112",
+            "text": "Bremenweg"
+        },
+        {
+            "id": "str_20127",
+            "text": "Bürgermeister-Otto-Straße"
+        },
+        {
+            "id": "str_20144",
+            "text": "Dollgasse"
+        },
+        {
+            "id": "str_20150",
+            "text": "Domweg"
+        },
+        {
+            "id": "str_20154",
+            "text": "Dornröschenweg"
+        },
+        {
+            "id": "str_20164",
+            "text": "Dürrenberg"
+        },
+        {
+            "id": "str_20167",
+            "text": "Eckleinsweg"
+        },
+        {
+            "id": "str_20176",
+            "text": "Eisenbahnstraße"
+        },
+        {
+            "id": "str_20599",
+            "text": "Elli-Michler-Straße"
+        },
+        {
+            "id": "str_20212",
+            "text": "Fischleingasse"
+        },
+        {
+            "id": "str_20222",
+            "text": "Franz-Bretz-Straße"
+        },
+        {
+            "id": "str_20233",
+            "text": "Frau-Holle-Weg"
+        },
+        {
+            "id": "str_20251",
+            "text": "Fuchsgasse"
+        },
+        {
+            "id": "str_20261",
+            "text": "Geisberg"
+        },
+        {
+            "id": "str_20262",
+            "text": "Geisberggraben"
+        },
+        {
+            "id": "str_20274",
+            "text": "Glacisweg"
+        },
+        {
+            "id": "str_20320",
+            "text": "Hedanstraße"
+        },
+        {
+            "id": "str_20333",
+            "text": "Heriedenweg"
+        },
+        {
+            "id": "str_20341",
+            "text": "Herta-Mannheimer-Weg"
+        },
+        {
+            "id": "str_20350",
+            "text": "Hinterer Kirchbergweg"
+        },
+        {
+            "id": "str_20358",
+            "text": "Hofmannstraße"
+        },
+        {
+            "id": "str_20368",
+            "text": "Holzweg"
+        },
+        {
+            "id": "str_20376",
+            "text": "Hunsingerweg"
+        },
+        {
+            "id": "str_20406",
+            "text": "Judenhof"
+        },
+        {
+            "id": "str_20407",
+            "text": "Judenplan"
+        },
+        {
+            "id": "str_20408",
+            "text": "Julius-Echter-Straße"
+        },
+        {
+            "id": "str_20420",
+            "text": "Karl-Straub-Straße"
+        },
+        {
+            "id": "str_20427",
+            "text": "Kaulstraße"
+        },
+        {
+            "id": "str_20434",
+            "text": "Kieseläckerweg"
+        },
+        {
+            "id": "str_20437",
+            "text": "Kirchgasse"
+        },
+        {
+            "id": "str_20438",
+            "text": "Kirchhofstraße"
+        },
+        {
+            "id": "str_20439",
+            "text": "Kirchplatz"
+        },
+        {
+            "id": "str_20445",
+            "text": "Klingenstraße"
+        },
+        {
+            "id": "str_20448",
+            "text": "Klopfergasse"
+        },
+        {
+            "id": "str_20450",
+            "text": "Klosterstraße"
+        },
+        {
+            "id": "str_20452",
+            "text": "Köchleinsweg"
+        },
+        {
+            "id": "str_20455",
+            "text": "Kolonieweg"
+        },
+        {
+            "id": "str_20481",
+            "text": "Lehmgrubenweg"
+        },
+        {
+            "id": "str_20485",
+            "text": "Leitenäckerweg"
+        },
+        {
+            "id": "str_20486",
+            "text": "Leitengraben"
+        },
+        {
+            "id": "str_20509",
+            "text": "Löffelgasse"
+        },
+        {
+            "id": "str_20527",
+            "text": "Maingasse"
+        },
+        {
+            "id": "str_20544",
+            "text": "Matthias-Noell-Weg"
+        },
+        {
+            "id": "str_20553",
+            "text": "Max-Schnabel-Straße"
+        },
+        {
+            "id": "str_20557",
+            "text": "Mergentheimer Straße  23-Ende ung./112-Ende ger. Nr."
+        },
+        {
+            "id": "str_20567",
+            "text": "Mittlerer Katzenbergweg"
+        },
+        {
+            "id": "str_20568",
+            "text": "Mittlerer Kirchbergweg"
+        },
+        {
+            "id": "str_20577",
+            "text": "Mönchsgartenweg"
+        },
+        {
+            "id": "str_20583",
+            "text": "Mühlenstraße"
+        },
+        {
+            "id": "str_20585",
+            "text": "Münchgasse"
+        },
+        {
+            "id": "str_20614",
+            "text": "Oberer Geibergweg"
+        },
+        {
+            "id": "str_20615",
+            "text": "Oberer Katzenbergweg"
+        },
+        {
+            "id": "str_20616",
+            "text": "Oberer Kirchbergweg"
+        },
+        {
+            "id": "str_20637",
+            "text": "Otto-Fritz-Straße"
+        },
+        {
+            "id": "str_20685",
+            "text": "Randersackerer Weg"
+        },
+        {
+            "id": "str_20686",
+            "text": "Rathausplatz Heidingsfeld"
+        },
+        {
+            "id": "str_20695",
+            "text": "Resenstraße"
+        },
+        {
+            "id": "str_20696",
+            "text": "Resenweg"
+        },
+        {
+            "id": "str_20700",
+            "text": "Reuterstraße"
+        },
+        {
+            "id": "str_20728",
+            "text": "Röthenweg"
+        },
+        {
+            "id": "str_20731",
+            "text": "Rotkäppchenweg"
+        },
+        {
+            "id": "str_20739",
+            "text": "Rübezahlweg"
+        },
+        {
+            "id": "str_20744",
+            "text": "Ruppertsgasse"
+        },
+        {
+            "id": "str_20756",
+            "text": "Sandgrubenweg"
+        },
+        {
+            "id": "str_20775",
+            "text": "Schildweg"
+        },
+        {
+            "id": "str_20784",
+            "text": "Schneewittchenweg"
+        },
+        {
+            "id": "str_20785",
+            "text": "Schollergasse"
+        },
+        {
+            "id": "str_20808",
+            "text": "Seegartenweg"
+        },
+        {
+            "id": "str_20812",
+            "text": "Seilerstraße"
+        },
+        {
+            "id": "str_20847",
+            "text": "Stegenturmgasse"
+        },
+        {
+            "id": "str_20850",
+            "text": "Steigerfurtweg"
+        },
+        {
+            "id": "str_20858",
+            "text": "Steinhäuserstraße"
+        },
+        {
+            "id": "str_20862",
+            "text": "Stengerstraße"
+        },
+        {
+            "id": "str_20866",
+            "text": "Sterntalerweg"
+        },
+        {
+            "id": "str_20874",
+            "text": "Stürzpfad"
+        },
+        {
+            "id": "str_20875",
+            "text": "Stuttgarter Straße"
+        },
+        {
+            "id": "str_20881",
+            "text": "Taschenäckerweg"
+        },
+        {
+            "id": "str_20892",
+            "text": "Tiefe Gasse"
+        },
+        {
+            "id": "str_20896",
+            "text": "Toräckerweg"
+        },
+        {
+            "id": "str_20916",
+            "text": "Unterer Katzenbergweg"
+        },
+        {
+            "id": "str_20917",
+            "text": "Unterer Kaulweg"
+        },
+        {
+            "id": "str_20918",
+            "text": "Unterer Kirchbergweg"
+        },
+        {
+            "id": "str_20925",
+            "text": "Unterer Weg"
+        },
+        {
+            "id": "str_20957",
+            "text": "Weg an der Ziegelhütte"
+        },
+        {
+            "id": "str_20959",
+            "text": "Weg zur Neuen Welt"
+        },
+        {
+            "id": "str_20964",
+            "text": "Weißbrückengraben"
+        },
+        {
+            "id": "str_20968",
+            "text": "Wellhöferweg"
+        },
+        {
+            "id": "str_20970",
+            "text": "Wendelweg"
+        },
+        {
+            "id": "str_20971",
+            "text": "Wenzelstraße"
+        },
+        {
+            "id": "str_20972",
+            "text": "Werkingstraße"
+        },
+        {
+            "id": "str_20977",
+            "text": "Wiesenweg"
+        },
+        {
+            "id": "str_20982",
+            "text": "Winterhäuser Straße"
+        },
+        {
+            "id": "str_21004",
+            "text": "Zindelgasse"
+        },
+        {
+            "id": "str_21007",
+            "text": "Zobelweg"
+        },
+        {
+            "id": "str_21008",
+            "text": "Zülbsgasse"
+        }
+    ],
+    "19936": [
+        {
+            "id": "str_19959",
+            "text": "Albert-Einstein-Straße"
+        },
+        {
+            "id": "str_19963",
+            "text": "Albertsleitenweg"
+        },
+        {
+            "id": "str_19966",
+            "text": "Alfred-Nobel-Straße"
+        },
+        {
+            "id": "str_19972",
+            "text": "Alter Bergweg"
+        },
+        {
+            "id": "str_19980",
+            "text": "Am Dürrbach"
+        },
+        {
+            "id": "str_19986",
+            "text": "Am Glitzelberg"
+        },
+        {
+            "id": "str_19998",
+            "text": "Am Kuhberg"
+        },
+        {
+            "id": "str_20003",
+            "text": "Am Pfaffenberg"
+        },
+        {
+            "id": "str_20007",
+            "text": "Am Roßberg"
+        },
+        {
+            "id": "str_20010",
+            "text": "Am Sand"
+        },
+        {
+            "id": "str_20011",
+            "text": "Am Schaftrieb"
+        },
+        {
+            "id": "str_20013",
+            "text": "Am Schenkenturm"
+        },
+        {
+            "id": "str_20030",
+            "text": "Am Wandberg"
+        },
+        {
+            "id": "str_20037",
+            "text": "An den Mühltannen"
+        },
+        {
+            "id": "str_20038",
+            "text": "An den Röthen"
+        },
+        {
+            "id": "str_20044",
+            "text": "An der Steige"
+        },
+        {
+            "id": "str_20078",
+            "text": "Bauerstraße"
+        },
+        {
+            "id": "str_20095",
+            "text": "Birkenhain"
+        },
+        {
+            "id": "str_20123",
+            "text": "Buchengraben"
+        },
+        {
+            "id": "str_20153",
+            "text": "Dorfplatz"
+        },
+        {
+            "id": "str_20157",
+            "text": "Dr.-Onymus-Straße"
+        },
+        {
+            "id": "str_20163",
+            "text": "Dürrbachtal"
+        },
+        {
+            "id": "str_20170",
+            "text": "Eduard-Buchner-Straße"
+        },
+        {
+            "id": "str_20182",
+            "text": "Ellernweg"
+        },
+        {
+            "id": "str_20241",
+            "text": "Friedrich-Koenig-Straße"
+        },
+        {
+            "id": "str_20242",
+            "text": "Friedrich-Kohlrausch-Straße"
+        },
+        {
+            "id": "str_20247",
+            "text": "Fritz-Haber-Straße"
+        },
+        {
+            "id": "str_20254",
+            "text": "Gadheimer Straße"
+        },
+        {
+            "id": "str_20293",
+            "text": "Grundäckerstraße"
+        },
+        {
+            "id": "str_20299",
+            "text": "Güterbahnhof Zell"
+        },
+        {
+            "id": "str_20326",
+            "text": "Heinrichsleitenweg"
+        },
+        {
+            "id": "str_20354",
+            "text": "Hirschleinstraße"
+        },
+        {
+            "id": "str_20357",
+            "text": "Hofleitenweg"
+        },
+        {
+            "id": "str_20369",
+            "text": "Hopfenberg"
+        },
+        {
+            "id": "str_20379",
+            "text": "Hüttenweg"
+        },
+        {
+            "id": "str_20380",
+            "text": "Im Grund"
+        },
+        {
+            "id": "str_20381",
+            "text": "Im Hirschlein"
+        },
+        {
+            "id": "str_20398",
+            "text": "Johann-Salomon-Straße"
+        },
+        {
+            "id": "str_20417",
+            "text": "Karl-Ferdinant-Braun-Straße"
+        },
+        {
+            "id": "str_20446",
+            "text": "Klingenweg"
+        },
+        {
+            "id": "str_20460",
+            "text": "Koppberggraben"
+        },
+        {
+            "id": "str_20461",
+            "text": "Koppbergweg"
+        },
+        {
+            "id": "str_20465",
+            "text": "Krautäckerstraße"
+        },
+        {
+            "id": "str_20466",
+            "text": "Kreuzbergstraße"
+        },
+        {
+            "id": "str_20475",
+            "text": "Langer Weg"
+        },
+        {
+            "id": "str_20499",
+            "text": "Liebigstraße"
+        },
+        {
+            "id": "str_506715",
+            "text": "Lothar-Forster-Straße"
+        },
+        {
+            "id": "str_20516",
+            "text": "Luitpoldgraben"
+        },
+        {
+            "id": "str_20517",
+            "text": "Luitpoldquelle"
+        },
+        {
+            "id": "str_20547",
+            "text": "Max-Born-Straße"
+        },
+        {
+            "id": "str_20555",
+            "text": "Max-von-Laue-Straße"
+        },
+        {
+            "id": "str_20573",
+            "text": "Mittlerer Wiesenweg"
+        },
+        {
+            "id": "str_20574",
+            "text": "Mohnstraße"
+        },
+        {
+            "id": "str_20592",
+            "text": "Neuenberg"
+        },
+        {
+            "id": "str_20593",
+            "text": "Neuenbrunner Weg"
+        },
+        {
+            "id": "str_20594",
+            "text": "Neuer Hafen"
+        },
+        {
+            "id": "str_20602",
+            "text": "Nördliche Hafenstraße"
+        },
+        {
+            "id": "str_20624",
+            "text": "Oberer Steinbergweg"
+        },
+        {
+            "id": "str_20609",
+            "text": "Obere Wand"
+        },
+        {
+            "id": "str_20626",
+            "text": "Oberhofstraße"
+        },
+        {
+            "id": "str_20630",
+            "text": "Öhlberg"
+        },
+        {
+            "id": "str_20638",
+            "text": "Otto-Hahn-Straße"
+        },
+        {
+            "id": "str_20646",
+            "text": "Paradieshof"
+        },
+        {
+            "id": "str_20647",
+            "text": "Paradiesstraße"
+        },
+        {
+            "id": "str_20652",
+            "text": "Peter-Haupt-Straße"
+        },
+        {
+            "id": "str_20657",
+            "text": "Peter-Wagner-Straße"
+        },
+        {
+            "id": "str_20659",
+            "text": "Pfaffenbergstraße"
+        },
+        {
+            "id": "str_20660",
+            "text": "Pfaffenbergweg"
+        },
+        {
+            "id": "str_20699",
+            "text": "Reußenweg"
+        },
+        {
+            "id": "str_20704",
+            "text": "Riedelspfad"
+        },
+        {
+            "id": "str_20710",
+            "text": "Ringstraße"
+        },
+        {
+            "id": "str_20717",
+            "text": "Rochusgasse"
+        },
+        {
+            "id": "str_20729",
+            "text": "Rothofstraße"
+        },
+        {
+            "id": "str_20743",
+            "text": "Rudolf-Clausius-Straße"
+        },
+        {
+            "id": "str_20761",
+            "text": "Schafhofstraße"
+        },
+        {
+            "id": "str_20769",
+            "text": "Schenkenschloßweg"
+        },
+        {
+            "id": "str_20819",
+            "text": "Siedlungsstraße"
+        },
+        {
+            "id": "str_20827",
+            "text": "Sonnenweg"
+        },
+        {
+            "id": "str_20857",
+            "text": "Steinburgstraße"
+        },
+        {
+            "id": "str_20840",
+            "text": "St.-Josef-Straße"
+        },
+        {
+            "id": "str_20843",
+            "text": "St.-Stephan-Straße"
+        },
+        {
+            "id": "str_20877",
+            "text": "Südliche Hafenstraße"
+        },
+        {
+            "id": "str_20907",
+            "text": "Unterdürrbacher Straße"
+        },
+        {
+            "id": "str_20922",
+            "text": "Unterer Steinbergweg"
+        },
+        {
+            "id": "str_20924",
+            "text": "Unterer Wandweg"
+        },
+        {
+            "id": "str_20931",
+            "text": "Veitshöchheimer Straße 7-Ende ung./32-Ende ger. Nr."
+        },
+        {
+            "id": "str_20952",
+            "text": "Walther-Nernst-Straße"
+        },
+        {
+            "id": "str_20955",
+            "text": "Wandweg"
+        },
+        {
+            "id": "str_20962",
+            "text": "Weinbergweg"
+        },
+        {
+            "id": "str_20967",
+            "text": "Weißer Bildweg"
+        },
+        {
+            "id": "str_20981",
+            "text": "Wilhelm-Wien-Straße"
+        },
+        {
+            "id": "str_20998",
+            "text": "Zehnthofstraße"
+        },
+        {
+            "id": "str_21003",
+            "text": "Ziegelhütte"
+        },
+        {
+            "id": "str_21010",
+            "text": "Zum Sportplatz"
+        }
+    ],
+    "19942": [
+        {
+            "id": "str_19964",
+            "text": "Albertus-Magnus-Weg"
+        },
+        {
+            "id": "str_20079",
+            "text": "Bayernstraße"
+        },
+        {
+            "id": "str_20218",
+            "text": "Frankenstraße 1-197 ung./2-210 ger. Nr."
+        },
+        {
+            "id": "str_20344",
+            "text": "Hessenstraße"
+        },
+        {
+            "id": "str_20635",
+            "text": "Ostpreußenstraße"
+        },
+        {
+            "id": "str_20661",
+            "text": "Pfalzstraße"
+        },
+        {
+            "id": "str_20779",
+            "text": "Schlesierstraße"
+        },
+        {
+            "id": "str_20800",
+            "text": "Schwabenstraße"
+        },
+        {
+            "id": "str_20876",
+            "text": "Sudetenstraße"
+        },
+        {
+            "id": "str_20891",
+            "text": "Thüringerstraße"
+        },
+        {
+            "id": "str_506463",
+            "text": "Versbacher Straße 39-99 ung."
+        },
+        {
+            "id": "str_20935",
+            "text": "Versbacher Straße 39-99 ung./4-92 ger. Nr."
+        }
+    ],
+    "403103": [
+        {
+            "id": "str_19969",
+            "text": "Alte Kasernstraße"
+        },
+        {
+            "id": "str_19979",
+            "text": "Am Dicken Turm"
+        },
+        {
+            "id": "str_20128",
+            "text": "Burkarderstraße"
+        },
+        {
+            "id": "str_20158",
+            "text": "Dreikronenstraße"
+        },
+        {
+            "id": "str_20159",
+            "text": "Dritte Felsengasse"
+        },
+        {
+            "id": "str_20183",
+            "text": "Elstergasse"
+        },
+        {
+            "id": "str_20191",
+            "text": "Erste Felsengasse"
+        },
+        {
+            "id": "str_20426",
+            "text": "Katzengasse"
+        },
+        {
+            "id": "str_20479",
+            "text": "Laufergasse"
+        },
+        {
+            "id": "str_20597",
+            "text": "Neydeckgasse"
+        },
+        {
+            "id": "str_20598",
+            "text": "Nigglweg"
+        },
+        {
+            "id": "str_20781",
+            "text": "Schloßgasse"
+        },
+        {
+            "id": "str_20792",
+            "text": "Schottenanger"
+        },
+        {
+            "id": "str_20834",
+            "text": "Spitalgasse"
+        },
+        {
+            "id": "str_20883",
+            "text": "Tellsteige"
+        },
+        {
+            "id": "str_20999",
+            "text": "Zeller Straße"
+        },
+        {
+            "id": "str_21016",
+            "text": "Zweite Felsengasse"
+        }
+    ],
+    "19935": [
+        {
+            "id": "str_19970",
+            "text": "Alte Mainbrücke"
+        },
+        {
+            "id": "str_19977",
+            "text": "Am Bruderhof"
+        },
+        {
+            "id": "str_20005",
+            "text": "Am Pleidenturm"
+        },
+        {
+            "id": "str_20041",
+            "text": "An der Löwenbrücke"
+        },
+        {
+            "id": "str_20049",
+            "text": "Annastraße"
+        },
+        {
+            "id": "str_20056",
+            "text": "Artztlade"
+        },
+        {
+            "id": "str_20061",
+            "text": "Augustinerstraße"
+        },
+        {
+            "id": "str_20068",
+            "text": "Bachgasse"
+        },
+        {
+            "id": "str_20069",
+            "text": "Badergasse"
+        },
+        {
+            "id": "str_20070",
+            "text": "Bahnhofplatz"
+        },
+        {
+            "id": "str_20071",
+            "text": "Bahnhofstraße"
+        },
+        {
+            "id": "str_20072",
+            "text": "Balthasar-Neumann-Promenade"
+        },
+        {
+            "id": "str_20075",
+            "text": "Barbarossaplatz"
+        },
+        {
+            "id": "str_20076",
+            "text": "Bärengasse"
+        },
+        {
+            "id": "str_20080",
+            "text": "Beethovenstraße"
+        },
+        {
+            "id": "str_20083",
+            "text": "Beim Grafeneckart"
+        },
+        {
+            "id": "str_20088",
+            "text": "Bergmeistergasse"
+        },
+        {
+            "id": "str_20091",
+            "text": "Berliner Platz"
+        },
+        {
+            "id": "str_20094",
+            "text": "Bibrastraße"
+        },
+        {
+            "id": "str_20097",
+            "text": "Bismarckstraße"
+        },
+        {
+            "id": "str_20098",
+            "text": "Blasiusgasse"
+        },
+        {
+            "id": "str_20099",
+            "text": "Blöhlein"
+        },
+        {
+            "id": "str_20102",
+            "text": "Bockgasse"
+        },
+        {
+            "id": "str_20106",
+            "text": "Bohnesmühlgasse"
+        },
+        {
+            "id": "str_20116",
+            "text": "Bronnbachergasse"
+        },
+        {
+            "id": "str_20117",
+            "text": "Bronnbacherhof"
+        },
+        {
+            "id": "str_20129",
+            "text": "Büttnerstraße"
+        },
+        {
+            "id": "str_20134",
+            "text": "Crevennastraße"
+        },
+        {
+            "id": "str_20142",
+            "text": "Dettelbachergasse"
+        },
+        {
+            "id": "str_20145",
+            "text": "Domerpfarrgasse"
+        },
+        {
+            "id": "str_20146",
+            "text": "Domerschulstraße"
+        },
+        {
+            "id": "str_20147",
+            "text": "Dominikanergasse"
+        },
+        {
+            "id": "str_20148",
+            "text": "Dominikanerplatz"
+        },
+        {
+            "id": "str_20149",
+            "text": "Domstraße"
+        },
+        {
+            "id": "str_20162",
+            "text": "Dürerstraße"
+        },
+        {
+            "id": "str_20166",
+            "text": "Ebrachergasse"
+        },
+        {
+            "id": "str_20174",
+            "text": "Eichhornstraße"
+        },
+        {
+            "id": "str_20175",
+            "text": "Eichstraße"
+        },
+        {
+            "id": "str_20180",
+            "text": "Elefantengasse"
+        },
+        {
+            "id": "str_20224",
+            "text": "Franziskanergasse"
+        },
+        {
+            "id": "str_20225",
+            "text": "Franziskanerplatz"
+        },
+        {
+            "id": "str_20238",
+            "text": "Friedrich-Ebert-Ring 1-12"
+        },
+        {
+            "id": "str_20267",
+            "text": "Gerberstraße"
+        },
+        {
+            "id": "str_20269",
+            "text": "Gertraudgasse"
+        },
+        {
+            "id": "str_20272",
+            "text": "Geschwister-Scholl-Platz"
+        },
+        {
+            "id": "str_20275",
+            "text": "Glockengasse"
+        },
+        {
+            "id": "str_20279",
+            "text": "Goethestraße"
+        },
+        {
+            "id": "str_20282",
+            "text": "Gotengasse"
+        },
+        {
+            "id": "str_20283",
+            "text": "Grabenberg"
+        },
+        {
+            "id": "str_20284",
+            "text": "Grabengasse"
+        },
+        {
+            "id": "str_20289",
+            "text": "Gressengasse"
+        },
+        {
+            "id": "str_20294",
+            "text": "Grünewaldstraße"
+        },
+        {
+            "id": "str_20303",
+            "text": "Häfnergasse"
+        },
+        {
+            "id": "str_20304",
+            "text": "Hahnenhof"
+        },
+        {
+            "id": "str_20306",
+            "text": "Handgasse"
+        },
+        {
+            "id": "str_20310",
+            "text": "Harfenstraße"
+        },
+        {
+            "id": "str_20312",
+            "text": "Haugerglacisstraße"
+        },
+        {
+            "id": "str_20313",
+            "text": "Haugerkirchgasse"
+        },
+        {
+            "id": "str_20314",
+            "text": "Haugerkirchplatz"
+        },
+        {
+            "id": "str_20315",
+            "text": "Haugerpfarrgasse"
+        },
+        {
+            "id": "str_20316",
+            "text": "Haugerring"
+        },
+        {
+            "id": "str_20325",
+            "text": "Heinestraße"
+        },
+        {
+            "id": "str_20340",
+            "text": "Herrnstraße"
+        },
+        {
+            "id": "str_20343",
+            "text": "Herzogenstraße"
+        },
+        {
+            "id": "str_20360",
+            "text": "Hofstallstraße"
+        },
+        {
+            "id": "str_20361",
+            "text": "Hofstraße"
+        },
+        {
+            "id": "str_20367",
+            "text": "Holztorgasse"
+        },
+        {
+            "id": "str_20370",
+            "text": "Hörleingasse"
+        },
+        {
+            "id": "str_20375",
+            "text": "Huebergasse"
+        },
+        {
+            "id": "str_20377",
+            "text": "Husarenstraße"
+        },
+        {
+            "id": "str_20385",
+            "text": "Ingolstadter Hof"
+        },
+        {
+            "id": "str_20387",
+            "text": "Innerer Graben"
+        },
+        {
+            "id": "str_20396",
+            "text": "Johanniterplatz"
+        },
+        {
+            "id": "str_20399",
+            "text": "Johann-Sperl-Straße"
+        },
+        {
+            "id": "str_20402",
+            "text": "Josef-Stangel-Platz"
+        },
+        {
+            "id": "str_20409",
+            "text": "Juliuspromenade"
+        },
+        {
+            "id": "str_20410",
+            "text": "Kaiserplatz"
+        },
+        {
+            "id": "str_20411",
+            "text": "Kaiserstraße"
+        },
+        {
+            "id": "str_20414",
+            "text": "Kapuzinerstraße"
+        },
+        {
+            "id": "str_20415",
+            "text": "Kardinal-Döpfner-Platz"
+        },
+        {
+            "id": "str_20416",
+            "text": "Kardinal-Faulhaber-Platz"
+        },
+        {
+            "id": "str_20421",
+            "text": "Karmelitenstraße"
+        },
+        {
+            "id": "str_20422",
+            "text": "Kärrnergasse"
+        },
+        {
+            "id": "str_20423",
+            "text": "Kartause"
+        },
+        {
+            "id": "str_20425",
+            "text": "Katharinengasse"
+        },
+        {
+            "id": "str_20432",
+            "text": "Kettengasse"
+        },
+        {
+            "id": "str_20435",
+            "text": "Kiliansplatz"
+        },
+        {
+            "id": "str_20444",
+            "text": "Kliebertstraße"
+        },
+        {
+            "id": "str_20447",
+            "text": "Klinikstraße"
+        },
+        {
+            "id": "str_20449",
+            "text": "Klostergasse"
+        },
+        {
+            "id": "str_20453",
+            "text": "Koellikerstraße"
+        },
+        {
+            "id": "str_20454",
+            "text": "Kohlenhofstraße"
+        },
+        {
+            "id": "str_20456",
+            "text": "Kolpingstraße"
+        },
+        {
+            "id": "str_20459",
+            "text": "Konradstraße"
+        },
+        {
+            "id": "str_20463",
+            "text": "Korngasse"
+        },
+        {
+            "id": "str_20464",
+            "text": "Kranenkai"
+        },
+        {
+            "id": "str_20467",
+            "text": "Kroatengasse"
+        },
+        {
+            "id": "str_20471",
+            "text": "Kürschner Hof"
+        },
+        {
+            "id": "str_20473",
+            "text": "Landwehrstraße"
+        },
+        {
+            "id": "str_20477",
+            "text": "Langgasse"
+        },
+        {
+            "id": "str_20483",
+            "text": "Leiblstraße"
+        },
+        {
+            "id": "str_20503",
+            "text": "Lindahlstraße"
+        },
+        {
+            "id": "str_20514",
+            "text": "Ludwigstraße"
+        },
+        {
+            "id": "str_20523",
+            "text": "Maiergasse"
+        },
+        {
+            "id": "str_20528",
+            "text": "Mainkai"
+        },
+        {
+            "id": "str_20532",
+            "text": "Marcusstraße"
+        },
+        {
+            "id": "str_20536",
+            "text": "Marienplatz"
+        },
+        {
+            "id": "str_20537",
+            "text": "Marienstraße"
+        },
+        {
+            "id": "str_20538",
+            "text": "Marktgasse"
+        },
+        {
+            "id": "str_20539",
+            "text": "Marktplatz"
+        },
+        {
+            "id": "str_20540",
+            "text": "Martin-Luther-Straße"
+        },
+        {
+            "id": "str_20541",
+            "text": "Martinstraße"
+        },
+        {
+            "id": "str_20545",
+            "text": "Maulhardgasse"
+        },
+        {
+            "id": "str_20554",
+            "text": "Maxstraße"
+        },
+        {
+            "id": "str_20579",
+            "text": "Moritzgasse"
+        },
+        {
+            "id": "str_20586",
+            "text": "Münzstraße"
+        },
+        {
+            "id": "str_20590",
+            "text": "Neubaustraße"
+        },
+        {
+            "id": "str_20596",
+            "text": "Neutorstraße"
+        },
+        {
+            "id": "str_20608",
+            "text": "Obere Johannitergasse"
+        },
+        {
+            "id": "str_20620",
+            "text": "Oberer Mainkai"
+        },
+        {
+            "id": "str_20627",
+            "text": "Oberthürstraße"
+        },
+        {
+            "id": "str_20629",
+            "text": "Oeggstraße"
+        },
+        {
+            "id": "str_20643",
+            "text": "Ottostraße"
+        },
+        {
+            "id": "str_20645",
+            "text": "Paradeplatz"
+        },
+        {
+            "id": "str_20653",
+            "text": "Peterpfarrgasse"
+        },
+        {
+            "id": "str_20654",
+            "text": "Peterplatz"
+        },
+        {
+            "id": "str_20656",
+            "text": "Peterstraße"
+        },
+        {
+            "id": "str_20663",
+            "text": "Pfauengasse"
+        },
+        {
+            "id": "str_20665",
+            "text": "Pickelstraße"
+        },
+        {
+            "id": "str_20669",
+            "text": "Plattnerstraße"
+        },
+        {
+            "id": "str_20671",
+            "text": "Pleicherkirchgasse"
+        },
+        {
+            "id": "str_20672",
+            "text": "Pleicherkirchplatz"
+        },
+        {
+            "id": "str_20673",
+            "text": "Pleicherpfarrgasse"
+        },
+        {
+            "id": "str_20674",
+            "text": "Pleicherschulgasse"
+        },
+        {
+            "id": "str_20675",
+            "text": "Pleichertorstraße"
+        },
+        {
+            "id": "str_20676",
+            "text": "Pleicherwall"
+        },
+        {
+            "id": "str_20677",
+            "text": "Pommergasse"
+        },
+        {
+            "id": "str_20680",
+            "text": "Prymstraße"
+        },
+        {
+            "id": "str_20683",
+            "text": "Raiffeisenstraße"
+        },
+        {
+            "id": "str_20688",
+            "text": "Reibeltgasse"
+        },
+        {
+            "id": "str_20691",
+            "text": "Reisgrubengasse"
+        },
+        {
+            "id": "str_20693",
+            "text": "Rennweg"
+        },
+        {
+            "id": "str_20694",
+            "text": "Rennweger Ring"
+        },
+        {
+            "id": "str_20697",
+            "text": "Residenzplatz"
+        },
+        {
+            "id": "str_20698",
+            "text": "Reuerergasse"
+        },
+        {
+            "id": "str_20707",
+            "text": "Riemenschneiderstraße ung. Nr."
+        },
+        {
+            "id": "str_20711",
+            "text": "Rittergasse"
+        },
+        {
+            "id": "str_20720",
+            "text": "Röntgenring"
+        },
+        {
+            "id": "str_20722",
+            "text": "Rosengasse"
+        },
+        {
+            "id": "str_20733",
+            "text": "Rotkreuzstraße"
+        },
+        {
+            "id": "str_20734",
+            "text": "Rotlöwengasse"
+        },
+        {
+            "id": "str_20735",
+            "text": "Rotscheibengasse"
+        },
+        {
+            "id": "str_20737",
+            "text": "Rottendorfer Straße 1-15"
+        },
+        {
+            "id": "str_20740",
+            "text": "Rückermainstraße"
+        },
+        {
+            "id": "str_20742",
+            "text": "Rüdigerstraße"
+        },
+        {
+            "id": "str_20753",
+            "text": "Sanderring"
+        },
+        {
+            "id": "str_20755",
+            "text": "Sanderstraße"
+        },
+        {
+            "id": "str_20758",
+            "text": "Sartoriusstraße"
+        },
+        {
+            "id": "str_20759",
+            "text": "Scanzonistraße"
+        },
+        {
+            "id": "str_20770",
+            "text": "Schenkhof"
+        },
+        {
+            "id": "str_20774",
+            "text": "Schildhof"
+        },
+        {
+            "id": "str_20783",
+            "text": "Schmalzmarkt"
+        },
+        {
+            "id": "str_20787",
+            "text": "Schönbornstraße"
+        },
+        {
+            "id": "str_20788",
+            "text": "Schönleinstraße"
+        },
+        {
+            "id": "str_20789",
+            "text": "Schönthalstraße"
+        },
+        {
+            "id": "str_20796",
+            "text": "Schürerstraße"
+        },
+        {
+            "id": "str_20797",
+            "text": "Schustergasse"
+        },
+        {
+            "id": "str_20798",
+            "text": "Schüttgasse"
+        },
+        {
+            "id": "str_20801",
+            "text": "Schwanenhof"
+        },
+        {
+            "id": "str_20802",
+            "text": "Schweinfurter Straße 2-13"
+        },
+        {
+            "id": "str_20809",
+            "text": "Seelbergstraße"
+        },
+        {
+            "id": "str_20814",
+            "text": "Semmelstraße"
+        },
+        {
+            "id": "str_20821",
+            "text": "Siligmüllerstraße"
+        },
+        {
+            "id": "str_20833",
+            "text": "Spiegelstraße"
+        },
+        {
+            "id": "str_20838",
+            "text": "St.-Benedikt-Straße"
+        },
+        {
+            "id": "str_20861",
+            "text": "Steinstraße"
+        },
+        {
+            "id": "str_20863",
+            "text": "Stephanstraße"
+        },
+        {
+            "id": "str_20865",
+            "text": "Sterngasse"
+        },
+        {
+            "id": "str_20884",
+            "text": "Textorstraße"
+        },
+        {
+            "id": "str_20885",
+            "text": "Theaterstraße"
+        },
+        {
+            "id": "str_20890",
+            "text": "Theresienstraße"
+        },
+        {
+            "id": "str_20893",
+            "text": "Tiepolostraße"
+        },
+        {
+            "id": "str_20900",
+            "text": "Tröltschstraße"
+        },
+        {
+            "id": "str_20902",
+            "text": "Turmgasse"
+        },
+        {
+            "id": "str_20905",
+            "text": "Ulmer Hof"
+        },
+        {
+            "id": "str_20908",
+            "text": "Untere Bockgasse"
+        },
+        {
+            "id": "str_20912",
+            "text": "Untere Johannitergasse"
+        },
+        {
+            "id": "str_20927",
+            "text": "Ursulinergasse"
+        },
+        {
+            "id": "str_20929",
+            "text": "Valentin-Becker-Straße"
+        },
+        {
+            "id": "str_20930",
+            "text": "Veitshöchheimer Straße 1-5 ung./2-30 ger. Nr."
+        },
+        {
+            "id": "str_20949",
+            "text": "Wallgasse"
+        },
+        {
+            "id": "str_20950",
+            "text": "Wallkrone"
+        },
+        {
+            "id": "str_20969",
+            "text": "Welzstraße"
+        },
+        {
+            "id": "str_20979",
+            "text": "Wilhelm-Schwinn-Platz"
+        },
+        {
+            "id": "str_20980",
+            "text": "Wilhelmstraße"
+        },
+        {
+            "id": "str_20985",
+            "text": "Wirsbergstraße"
+        },
+        {
+            "id": "str_20989",
+            "text": "Wolfhartsgasse"
+        },
+        {
+            "id": "str_20990",
+            "text": "Wolframstraße"
+        },
+        {
+            "id": "str_20992",
+            "text": "Wöllergasse"
+        },
+        {
+            "id": "str_21002",
+            "text": "Ziegelaustraße"
+        },
+        {
+            "id": "str_21005",
+            "text": "Zinkhof"
+        },
+        {
+            "id": "str_21019",
+            "text": "Zwinger"
+        }
+    ],
+    "19938": [
+        {
+            "id": "str_19987",
+            "text": "Am Greinberg"
+        },
+        {
+            "id": "str_20023",
+            "text": "Am Stein"
+        },
+        {
+            "id": "str_20063",
+            "text": "Äußere Aumühlstraße"
+        },
+        {
+            "id": "str_20067",
+            "text": "Auverastraße"
+        },
+        {
+            "id": "str_20103",
+            "text": "Bockspfad"
+        },
+        {
+            "id": "str_20109",
+            "text": "Bossistraße"
+        },
+        {
+            "id": "str_20118",
+            "text": "Brücknerstraße"
+        },
+        {
+            "id": "str_20186",
+            "text": "Enzelinstraße"
+        },
+        {
+            "id": "str_20189",
+            "text": "Ernst-Reuter-Straße"
+        },
+        {
+            "id": "str_20200",
+            "text": "Europastern"
+        },
+        {
+            "id": "str_20205",
+            "text": "Faulenbergstraße"
+        },
+        {
+            "id": "str_20234",
+            "text": "Fraunhoferstraße"
+        },
+        {
+            "id": "str_20237",
+            "text": "Friedrich-Bergius-Ring"
+        },
+        {
+            "id": "str_20252",
+            "text": "Füchsleinstraße"
+        },
+        {
+            "id": "str_20253",
+            "text": "Gabelsbergerstraße"
+        },
+        {
+            "id": "str_20257",
+            "text": "Gattingerstraße"
+        },
+        {
+            "id": "str_20263",
+            "text": "Georg-Böhm-Straße"
+        },
+        {
+            "id": "str_20292",
+            "text": "Grombühlstraße"
+        },
+        {
+            "id": "str_20297",
+            "text": "Gutenbergstraße"
+        },
+        {
+            "id": "str_20307",
+            "text": "Hans-Brandmann-Weg"
+        },
+        {
+            "id": "str_20317",
+            "text": "Häuselsberg"
+        },
+        {
+            "id": "str_20342",
+            "text": "Hertzstraße"
+        },
+        {
+            "id": "str_20366",
+            "text": "Hölzlesweg"
+        },
+        {
+            "id": "str_20383",
+            "text": "Im Kreuz"
+        },
+        {
+            "id": "str_20386",
+            "text": "Innere Aumühlstraße"
+        },
+        {
+            "id": "str_20400",
+            "text": "Josefplatz"
+        },
+        {
+            "id": "str_20401",
+            "text": "Josef-Schneider-Straße"
+        },
+        {
+            "id": "str_20403",
+            "text": "Josefstraße"
+        },
+        {
+            "id": "str_20502",
+            "text": "Lindachfeldweg"
+        },
+        {
+            "id": "str_20506",
+            "text": "Lindleinstraße"
+        },
+        {
+            "id": "str_20507",
+            "text": "Lindleshang"
+        },
+        {
+            "id": "str_20512",
+            "text": "Louis-Pasteur-Straße"
+        },
+        {
+            "id": "str_20542",
+            "text": "Matterstockstraße"
+        },
+        {
+            "id": "str_20566",
+            "text": "Mittlerer Greinbergweg"
+        },
+        {
+            "id": "str_20570",
+            "text": "Mittlerer Schalksbergweg"
+        },
+        {
+            "id": "str_20572",
+            "text": "Mittlerer Steinbergweg"
+        },
+        {
+            "id": "str_20578",
+            "text": "Morellistraße"
+        },
+        {
+            "id": "str_20603",
+            "text": "Nürnberger Straße"
+        },
+        {
+            "id": "str_20605",
+            "text": "Oberdürrbacher Straße"
+        },
+        {
+            "id": "str_20622",
+            "text": "Oberer Schalksbergweg"
+        },
+        {
+            "id": "str_20631",
+            "text": "Ohmstraße"
+        },
+        {
+            "id": "str_20651",
+            "text": "Pestalozzistraße"
+        },
+        {
+            "id": "str_20658",
+            "text": "Petrinistraße"
+        },
+        {
+            "id": "str_20690",
+            "text": "Reiserstraße"
+        },
+        {
+            "id": "str_20701",
+            "text": "Rhönstraße"
+        },
+        {
+            "id": "str_20708",
+            "text": "Rimparer Steig"
+        },
+        {
+            "id": "str_20709",
+            "text": "Rimparer Straße"
+        },
+        {
+            "id": "str_20713",
+            "text": "Robert-Bunsen-Straße"
+        },
+        {
+            "id": "str_20715",
+            "text": "Robert-Koch-Straße"
+        },
+        {
+            "id": "str_20723",
+            "text": "Rosenmühlweg"
+        },
+        {
+            "id": "str_20732",
+            "text": "Rotkreuzsteige"
+        },
+        {
+            "id": "str_20757",
+            "text": "Sandweg"
+        },
+        {
+            "id": "str_20762",
+            "text": "Schalksbergweg"
+        },
+        {
+            "id": "str_20765",
+            "text": "Scharoldstraße"
+        },
+        {
+            "id": "str_20773",
+            "text": "Schiestlstraße"
+        },
+        {
+            "id": "str_20803",
+            "text": "Schweinfurter Straße 26-Ende"
+        },
+        {
+            "id": "str_20815",
+            "text": "Senefelder Straße"
+        },
+        {
+            "id": "str_20844",
+            "text": "Ständerbühlstraße"
+        },
+        {
+            "id": "str_20859",
+            "text": "Steinheilstraße"
+        },
+        {
+            "id": "str_20926",
+            "text": "Urlaubstraße"
+        },
+        {
+            "id": "str_20934",
+            "text": "Versbacher Straße 3-33 ung. Nr."
+        },
+        {
+            "id": "str_20944",
+            "text": "Wagnerplatz"
+        },
+        {
+            "id": "str_20945",
+            "text": "Wagnerstraße"
+        },
+        {
+            "id": "str_20973",
+            "text": "Werner-von-Siemens-Straße 1-27"
+        },
+        {
+            "id": "str_20975",
+            "text": "Wickenmayerstraße"
+        },
+        {
+            "id": "str_21006",
+            "text": "Zinklesweg"
+        }
+    ],
+    "403107": [
+        {
+            "id": "str_20004",
+            "text": "Am Pfaffenrain"
+        },
+        {
+            "id": "str_20006",
+            "text": "Am Reuschert"
+        },
+        {
+            "id": "str_20012",
+            "text": "Am Schellengraben"
+        },
+        {
+            "id": "str_20057",
+            "text": "Athener Ring"
+        },
+        {
+            "id": "str_20084",
+            "text": "Belgrader Straße"
+        },
+        {
+            "id": "str_20092",
+            "text": "Berner Straße"
+        },
+        {
+            "id": "str_20125",
+            "text": "Budapester Straße"
+        },
+        {
+            "id": "str_20126",
+            "text": "Bukarester Straße"
+        },
+        {
+            "id": "str_20139",
+            "text": "Delphiweg"
+        },
+        {
+            "id": "str_20140",
+            "text": "Delpstraße"
+        },
+        {
+            "id": "str_403122",
+            "text": "Dr.-Johanna-Stahl-Straße"
+        },
+        {
+            "id": "str_20160",
+            "text": "Dubliner Straße"
+        },
+        {
+            "id": "str_20161",
+            "text": "Dundeestraße"
+        },
+        {
+            "id": "str_20169",
+            "text": "Edith-Stein-Straße"
+        },
+        {
+            "id": "str_20187",
+            "text": "Ephesusweg"
+        },
+        {
+            "id": "str_20202",
+            "text": "Faribaultstraße"
+        },
+        {
+            "id": "str_20273",
+            "text": "Giebelstädter Steige"
+        },
+        {
+            "id": "str_20278",
+            "text": "Goerdelerstraße"
+        },
+        {
+            "id": "str_20322",
+            "text": "Heidingsfelder Weg"
+        },
+        {
+            "id": "str_20331",
+            "text": "Helsinkistraße"
+        },
+        {
+            "id": "str_20345",
+            "text": "Heuchelhofstraße"
+        },
+        {
+            "id": "str_20362",
+            "text": "Hohe Steige"
+        },
+        {
+            "id": "str_20371",
+            "text": "Huberstraße"
+        },
+        {
+            "id": "str_20462",
+            "text": "Kopenhagener Straße"
+        },
+        {
+            "id": "str_20496",
+            "text": "Leuschnerstraße"
+        },
+        {
+            "id": "str_20508",
+            "text": "Lissabonner Straße"
+        },
+        {
+            "id": "str_20510",
+            "text": "Londoner Straße"
+        },
+        {
+            "id": "str_20521",
+            "text": "Madrider Ring"
+        },
+        {
+            "id": "str_506006",
+            "text": "Max-Mengeringhausen-Straße"
+        },
+        {
+            "id": "str_20563",
+            "text": "Miletweg"
+        },
+        {
+            "id": "str_20581",
+            "text": "Moskauer Ring"
+        },
+        {
+            "id": "str_403120",
+            "text": "Mwanzaweg"
+        },
+        {
+            "id": "str_20632",
+            "text": "Olympia-Promenade"
+        },
+        {
+            "id": "str_20633",
+            "text": "Osloer Straße"
+        },
+        {
+            "id": "str_20634",
+            "text": "Ossietzkystraße"
+        },
+        {
+            "id": "str_20636",
+            "text": "Otsustraße"
+        },
+        {
+            "id": "str_20650",
+            "text": "Pergamonweg"
+        },
+        {
+            "id": "str_20679",
+            "text": "Prager Ring"
+        },
+        {
+            "id": "str_20689",
+            "text": "Reichenberger Straße"
+        },
+        {
+            "id": "str_20716",
+            "text": "Rochesterstraße"
+        },
+        {
+            "id": "str_20746",
+            "text": "Salamancastraße"
+        },
+        {
+            "id": "str_20766",
+            "text": "Schattbergweg"
+        },
+        {
+            "id": "str_20830",
+            "text": "Spartaweg"
+        },
+        {
+            "id": "str_20837",
+            "text": "Spitztannenweg"
+        },
+        {
+            "id": "str_20853",
+            "text": "Steigwaldweg"
+        },
+        {
+            "id": "str_20869",
+            "text": "Stockholmer Straße"
+        },
+        {
+            "id": "str_20871",
+            "text": "Straßburger Ring"
+        },
+        {
+            "id": "str_20886",
+            "text": "Thebenweg"
+        },
+        {
+            "id": "str_20895",
+            "text": "Tokiostraße"
+        },
+        {
+            "id": "str_20899",
+            "text": "Trojaweg"
+        },
+        {
+            "id": "str_20956",
+            "text": "Warschauer Straße"
+        },
+        {
+            "id": "str_20976",
+            "text": "Wiener Ring"
+        }
+    ],
+    "506176": [
+        {
+            "id": "str_20017",
+            "text": "Am Schwarzenberg"
+        },
+        {
+            "id": "str_20082",
+            "text": "Bei der Neumühle"
+        },
+        {
+            "id": "str_20873",
+            "text": "Straubmühlweg"
+        },
+        {
+            "id": "str_506464",
+            "text": "Versbacher Straße 3-33 ung. Nr. / 4-58 ger. Nr."
+        }
+    ],
+    "401083": [
+        {
+            "id": "str_20026",
+            "text": "Am Stuck"
+        },
+        {
+            "id": "str_20028",
+            "text": "Am Trog"
+        },
+        {
+            "id": "str_20330",
+            "text": "Angermaierstraße"
+        },
+        {
+            "id": "str_20209",
+            "text": "Ferdinand-Nickles-Straße"
+        },
+        {
+            "id": "str_20404",
+            "text": "Joseph-Seitz-Straße"
+        },
+        {
+            "id": "str_20642",
+            "text": "Otto-Stein-Straße"
+        },
+        {
+            "id": "str_20666",
+            "text": "Pilziggrundstraße"
+        },
+        {
+            "id": "str_20822",
+            "text": "Simon-Blenk-Weg"
+        },
+        {
+            "id": "str_20841",
+            "text": "St.-Lioba-Straße"
+        },
+        {
+            "id": "str_20879",
+            "text": "Talweg"
+        }
+    ],
+    "403108": [
+        {
+            "id": "str_20108",
+            "text": "Bonner Straße"
+        },
+        {
+            "id": "str_20122",
+            "text": "Brüsseler Straße"
+        },
+        {
+            "id": "str_20141",
+            "text": "Den Haager Straße"
+        },
+        {
+            "id": "str_20519",
+            "text": "Luxemburger Straße"
+        },
+        {
+            "id": "str_20648",
+            "text": "Pariser Straße"
+        },
+        {
+            "id": "str_20667",
+            "text": "Place de Caen"
+        },
+        {
+            "id": "str_20718",
+            "text": "Römer Straße"
+        }
+    ]
+}
