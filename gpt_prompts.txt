@@ -1,0 +1,61 @@
+Hi. Could you please:
+
+Write an SQL for SQLITE that creates the following tables with surogate autoincremental IDs:
+
+user_request:
+- id: serial not null pk
+- latitude and longitude: float nullable
+- street id: int, fk street not null
+- garbage type: int fk garbage type not null
+- state: int not null fk state
+- device id: string not null
+- ip: string not null
+- timestamp not null default now
+
+street:
+- id: int not null pk
+- name: string not null
+- city part id, fk city part not null
+
+city part:
+- id: int not null pk
+- name: string not null
+
+
+garbage type:
+- id: int not null pk
+- name: string not null
+
+state:
+- id: int not null pk
+- name: string not null
+
+
+garbage collection:
+- id: serial not null pk
+- garbage type: int fk garbage type
+- street id, fk street not null
+- timestamp not null default now
+
+
+regulatory data:
+- id: serial not null pk
+- garbage type: int fk garbage type
+- city part id, fk city part not null
+- garbage collection frequency days normal: int not null
+- garbage collection frequency days min: int not null
+- garbage collection frequency days max: int not null
+
+
+---------------------------------------------------------------
+
+An example how to fill the tabes (just with some placeholders)?
+
+---------------------------------------------------------------
+
+Then write a python script that
+
+- Opens or creates an sqlite database in a file
+- Opens the sql script above and creates the tables
+
+
