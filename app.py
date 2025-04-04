@@ -3,7 +3,7 @@ import sqlite3
 from datetime import datetime
 import uuid
 
-app = Flask(__name__, static_folder='static')
+app = Flask(__name__, static_folder='dist')
 DATABASE = "data/garbage_collection.db"
 
 def query_db(query, args=(), one=False):
@@ -28,11 +28,11 @@ def set_device_id():
 
 @app.route('/')
 def serve_index():
-    return send_from_directory('static', 'index.html')
+    return send_from_directory('dist', 'index.html')
 
 @app.route('/<path:path>')
 def serve_static(path):
-    return send_from_directory('static', path)
+    return send_from_directory('dist', path)
 
 @app.route('/get_last_collection', methods=['GET'])
 def get_last_collection():
